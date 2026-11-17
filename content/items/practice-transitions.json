@@ -1,0 +1,1489 @@
+{
+  "category": "Balance work",
+  "items": [
+    {
+      "id": "practice-move-04-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 04.",
+      "answer": "Hands on the sliding deck, feet on the sliding deck",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m035-practice-move-04-setup",
+          "quote": "the hands on the sliding deck and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 04",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-04-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 04?",
+      "answer": "3 counts out, 3 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m035-practice-move-04-pace",
+          "quote": "3 counts out and 3 counts back"
+        }
+      ],
+      "exercise": "Practice Move 04",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-04-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 04 too hard. What do you offer?",
+      "answer": "Shorten the range",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m035-practice-move-04-easier",
+          "quote": "shorten the range"
+        }
+      ],
+      "exercise": "Practice Move 04",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-04-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 04?",
+      "answer": "Lifting the shoulders",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m035-practice-move-04-mistake",
+          "quote": "lifting the shoulders"
+        }
+      ],
+      "exercise": "Practice Move 04",
+      "facet": "mistakes",
+      "choices": [
+        "Lifting the shoulders",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-04-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 04 uses, hands first.",
+      "answer": "Sliding deck, sliding deck",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m035-practice-move-04-setup",
+          "quote": "the hands on the sliding deck and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 04",
+      "facet": "position",
+      "parts": [
+        "sliding deck",
+        "sliding deck"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-04-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 04 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 04",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-09-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 09.",
+      "answer": "Hands on the back step, feet on the sliding deck",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m040-practice-move-09-setup",
+          "quote": "the hands on the back step and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 09",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-09-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 09?",
+      "answer": "4 counts out, 2 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m040-practice-move-09-pace",
+          "quote": "4 counts out and 2 counts back"
+        }
+      ],
+      "exercise": "Practice Move 09",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-09-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 09 too hard. What do you offer?",
+      "answer": "Use the green band",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m040-practice-move-09-easier",
+          "quote": "use the green band"
+        }
+      ],
+      "exercise": "Practice Move 09",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-09-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 09?",
+      "answer": "Lifting the shoulders",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m040-practice-move-09-mistake",
+          "quote": "lifting the shoulders"
+        }
+      ],
+      "exercise": "Practice Move 09",
+      "facet": "mistakes",
+      "choices": [
+        "Lifting the shoulders",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-09-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 09 uses, hands first.",
+      "answer": "Back step, sliding deck",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m040-practice-move-09-setup",
+          "quote": "the hands on the back step and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 09",
+      "facet": "position",
+      "parts": [
+        "back step",
+        "sliding deck"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-09-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 09 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 09",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-14-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 14.",
+      "answer": "Hands on the sliding deck, feet on the low step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m045-practice-move-14-setup",
+          "quote": "the hands on the sliding deck and the feet on the low step"
+        }
+      ],
+      "exercise": "Practice Move 14",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-14-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 14?",
+      "answer": "2 counts out, 4 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m045-practice-move-14-pace",
+          "quote": "2 counts out and 4 counts back"
+        }
+      ],
+      "exercise": "Practice Move 14",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-14-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 14 too hard. What do you offer?",
+      "answer": "Use the green band",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m045-practice-move-14-easier",
+          "quote": "use the green band"
+        }
+      ],
+      "exercise": "Practice Move 14",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-14-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 14?",
+      "answer": "Locking the knees",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m045-practice-move-14-mistake",
+          "quote": "locking the knees"
+        }
+      ],
+      "exercise": "Practice Move 14",
+      "facet": "mistakes",
+      "choices": [
+        "Locking the knees",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-14-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 14 uses, hands first.",
+      "answer": "Sliding deck, low step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m045-practice-move-14-setup",
+          "quote": "the hands on the sliding deck and the feet on the low step"
+        }
+      ],
+      "exercise": "Practice Move 14",
+      "facet": "position",
+      "parts": [
+        "sliding deck",
+        "low step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-14-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 14 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 14",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-19-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 19.",
+      "answer": "Hands on the sliding deck, feet on the sliding deck",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m050-practice-move-19-setup",
+          "quote": "the hands on the sliding deck and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 19",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-19-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 19?",
+      "answer": "2 counts out, 2 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m050-practice-move-19-pace",
+          "quote": "2 counts out and 2 counts back"
+        }
+      ],
+      "exercise": "Practice Move 19",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-19-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 19 too hard. What do you offer?",
+      "answer": "Hold the rail",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m050-practice-move-19-easier",
+          "quote": "hold the rail"
+        }
+      ],
+      "exercise": "Practice Move 19",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-19-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 19?",
+      "answer": "Lifting the shoulders",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m050-practice-move-19-mistake",
+          "quote": "lifting the shoulders"
+        }
+      ],
+      "exercise": "Practice Move 19",
+      "facet": "mistakes",
+      "choices": [
+        "Lifting the shoulders",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-19-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 19 uses, hands first.",
+      "answer": "Sliding deck, sliding deck",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m050-practice-move-19-setup",
+          "quote": "the hands on the sliding deck and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 19",
+      "facet": "position",
+      "parts": [
+        "sliding deck",
+        "sliding deck"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-19-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 19 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 19",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-24-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 24.",
+      "answer": "Hands on the back step, feet on the back step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m055-practice-move-24-setup",
+          "quote": "the hands on the back step and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 24",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-24-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 24?",
+      "answer": "2 counts out, 2 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m055-practice-move-24-pace",
+          "quote": "2 counts out and 2 counts back"
+        }
+      ],
+      "exercise": "Practice Move 24",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-24-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 24 too hard. What do you offer?",
+      "answer": "Keep one knee down",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m055-practice-move-24-easier",
+          "quote": "keep one knee down"
+        }
+      ],
+      "exercise": "Practice Move 24",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-24-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 24?",
+      "answer": "Locking the knees",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m055-practice-move-24-mistake",
+          "quote": "locking the knees"
+        }
+      ],
+      "exercise": "Practice Move 24",
+      "facet": "mistakes",
+      "choices": [
+        "Locking the knees",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-24-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 24 uses, hands first.",
+      "answer": "Back step, back step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m055-practice-move-24-setup",
+          "quote": "the hands on the back step and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 24",
+      "facet": "position",
+      "parts": [
+        "back step",
+        "back step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-24-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 24 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 24",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-29-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 29.",
+      "answer": "Hands on the back step, feet on the back step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m031-practice-move-29-setup",
+          "quote": "the hands on the back step and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 29",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-29-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 29?",
+      "answer": "2 counts out, 4 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m031-practice-move-29-pace",
+          "quote": "2 counts out and 4 counts back"
+        }
+      ],
+      "exercise": "Practice Move 29",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-29-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 29 too hard. What do you offer?",
+      "answer": "Use the green band",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m031-practice-move-29-easier",
+          "quote": "use the green band"
+        }
+      ],
+      "exercise": "Practice Move 29",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-29-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 29?",
+      "answer": "Dropping the head",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m031-practice-move-29-mistake",
+          "quote": "dropping the head"
+        }
+      ],
+      "exercise": "Practice Move 29",
+      "facet": "mistakes",
+      "choices": [
+        "Dropping the head",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-29-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 29 uses, hands first.",
+      "answer": "Back step, back step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m031-practice-move-29-setup",
+          "quote": "the hands on the back step and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 29",
+      "facet": "position",
+      "parts": [
+        "back step",
+        "back step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-29-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 29 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 29",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-34-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 34.",
+      "answer": "Hands on the back step, feet on the back step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m036-practice-move-34-setup",
+          "quote": "the hands on the back step and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 34",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-34-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 34?",
+      "answer": "3 counts out, 3 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m036-practice-move-34-pace",
+          "quote": "3 counts out and 3 counts back"
+        }
+      ],
+      "exercise": "Practice Move 34",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-34-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 34 too hard. What do you offer?",
+      "answer": "Hold the rail",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m036-practice-move-34-easier",
+          "quote": "hold the rail"
+        }
+      ],
+      "exercise": "Practice Move 34",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-34-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 34?",
+      "answer": "Lifting the shoulders",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m036-practice-move-34-mistake",
+          "quote": "lifting the shoulders"
+        }
+      ],
+      "exercise": "Practice Move 34",
+      "facet": "mistakes",
+      "choices": [
+        "Lifting the shoulders",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-34-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 34 uses, hands first.",
+      "answer": "Back step, back step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m036-practice-move-34-setup",
+          "quote": "the hands on the back step and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 34",
+      "facet": "position",
+      "parts": [
+        "back step",
+        "back step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-34-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 34 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 34",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-39-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 39.",
+      "answer": "Hands on the sliding deck, feet on the low step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m041-practice-move-39-setup",
+          "quote": "the hands on the sliding deck and the feet on the low step"
+        }
+      ],
+      "exercise": "Practice Move 39",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-39-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 39?",
+      "answer": "2 counts out, 2 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m041-practice-move-39-pace",
+          "quote": "2 counts out and 2 counts back"
+        }
+      ],
+      "exercise": "Practice Move 39",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-39-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 39 too hard. What do you offer?",
+      "answer": "Shorten the range",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m041-practice-move-39-easier",
+          "quote": "shorten the range"
+        }
+      ],
+      "exercise": "Practice Move 39",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-39-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 39?",
+      "answer": "Rushing the return",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m041-practice-move-39-mistake",
+          "quote": "rushing the return"
+        }
+      ],
+      "exercise": "Practice Move 39",
+      "facet": "mistakes",
+      "choices": [
+        "Rushing the return",
+        "Holding the breath",
+        "Locking the knees"
+      ]
+    },
+    {
+      "id": "practice-move-39-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 39 uses, hands first.",
+      "answer": "Sliding deck, low step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m041-practice-move-39-setup",
+          "quote": "the hands on the sliding deck and the feet on the low step"
+        }
+      ],
+      "exercise": "Practice Move 39",
+      "facet": "position",
+      "parts": [
+        "sliding deck",
+        "low step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-39-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 39 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 39",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-44-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 44.",
+      "answer": "Hands on the sliding deck, feet on the back step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m046-practice-move-44-setup",
+          "quote": "the hands on the sliding deck and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 44",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-44-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 44?",
+      "answer": "2 counts out, 4 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m046-practice-move-44-pace",
+          "quote": "2 counts out and 4 counts back"
+        }
+      ],
+      "exercise": "Practice Move 44",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-44-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 44 too hard. What do you offer?",
+      "answer": "Use the green band",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m046-practice-move-44-easier",
+          "quote": "use the green band"
+        }
+      ],
+      "exercise": "Practice Move 44",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-44-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 44?",
+      "answer": "Rushing the return",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m046-practice-move-44-mistake",
+          "quote": "rushing the return"
+        }
+      ],
+      "exercise": "Practice Move 44",
+      "facet": "mistakes",
+      "choices": [
+        "Rushing the return",
+        "Holding the breath",
+        "Locking the knees"
+      ]
+    },
+    {
+      "id": "practice-move-44-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 44 uses, hands first.",
+      "answer": "Sliding deck, back step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m046-practice-move-44-setup",
+          "quote": "the hands on the sliding deck and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 44",
+      "facet": "position",
+      "parts": [
+        "sliding deck",
+        "back step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-44-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 44 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 44",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-49-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 49.",
+      "answer": "Hands on the sliding deck, feet on the sliding deck",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m051-practice-move-49-setup",
+          "quote": "the hands on the sliding deck and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 49",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-49-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 49?",
+      "answer": "4 counts out, 4 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m051-practice-move-49-pace",
+          "quote": "4 counts out and 4 counts back"
+        }
+      ],
+      "exercise": "Practice Move 49",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-49-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 49 too hard. What do you offer?",
+      "answer": "Slow the count",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m051-practice-move-49-easier",
+          "quote": "slow the count"
+        }
+      ],
+      "exercise": "Practice Move 49",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-49-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 49?",
+      "answer": "Lifting the shoulders",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m051-practice-move-49-mistake",
+          "quote": "lifting the shoulders"
+        }
+      ],
+      "exercise": "Practice Move 49",
+      "facet": "mistakes",
+      "choices": [
+        "Lifting the shoulders",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-49-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 49 uses, hands first.",
+      "answer": "Sliding deck, sliding deck",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m051-practice-move-49-setup",
+          "quote": "the hands on the sliding deck and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 49",
+      "facet": "position",
+      "parts": [
+        "sliding deck",
+        "sliding deck"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-49-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 49 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 49",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-54-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 54.",
+      "answer": "Hands on the sliding deck, feet on the back step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m056-practice-move-54-setup",
+          "quote": "the hands on the sliding deck and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 54",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-54-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 54?",
+      "answer": "4 counts out, 4 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m056-practice-move-54-pace",
+          "quote": "4 counts out and 4 counts back"
+        }
+      ],
+      "exercise": "Practice Move 54",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-54-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 54 too hard. What do you offer?",
+      "answer": "Use the green band",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m056-practice-move-54-easier",
+          "quote": "use the green band"
+        }
+      ],
+      "exercise": "Practice Move 54",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-54-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 54?",
+      "answer": "Rushing the return",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m056-practice-move-54-mistake",
+          "quote": "rushing the return"
+        }
+      ],
+      "exercise": "Practice Move 54",
+      "facet": "mistakes",
+      "choices": [
+        "Rushing the return",
+        "Holding the breath",
+        "Locking the knees"
+      ]
+    },
+    {
+      "id": "practice-move-54-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 54 uses, hands first.",
+      "answer": "Sliding deck, back step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m056-practice-move-54-setup",
+          "quote": "the hands on the sliding deck and the feet on the back step"
+        }
+      ],
+      "exercise": "Practice Move 54",
+      "facet": "position",
+      "parts": [
+        "sliding deck",
+        "back step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-54-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 54 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 54",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-59-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 59.",
+      "answer": "Hands on the sliding deck, feet on the low step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m032-practice-move-59-setup",
+          "quote": "the hands on the sliding deck and the feet on the low step"
+        }
+      ],
+      "exercise": "Practice Move 59",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-59-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 59?",
+      "answer": "4 counts out, 4 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m032-practice-move-59-pace",
+          "quote": "4 counts out and 4 counts back"
+        }
+      ],
+      "exercise": "Practice Move 59",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-59-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 59 too hard. What do you offer?",
+      "answer": "Shorten the range",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m032-practice-move-59-easier",
+          "quote": "shorten the range"
+        }
+      ],
+      "exercise": "Practice Move 59",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-59-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 59?",
+      "answer": "Dropping the head",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m032-practice-move-59-mistake",
+          "quote": "dropping the head"
+        }
+      ],
+      "exercise": "Practice Move 59",
+      "facet": "mistakes",
+      "choices": [
+        "Dropping the head",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-59-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 59 uses, hands first.",
+      "answer": "Sliding deck, low step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m032-practice-move-59-setup",
+          "quote": "the hands on the sliding deck and the feet on the low step"
+        }
+      ],
+      "exercise": "Practice Move 59",
+      "facet": "position",
+      "parts": [
+        "sliding deck",
+        "low step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-59-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 59 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 59",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-64-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 64.",
+      "answer": "Hands on the front rail, feet on the sliding deck",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m037-practice-move-64-setup",
+          "quote": "the hands on the front rail and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 64",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-64-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 64?",
+      "answer": "2 counts out, 2 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m037-practice-move-64-pace",
+          "quote": "2 counts out and 2 counts back"
+        }
+      ],
+      "exercise": "Practice Move 64",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-64-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 64 too hard. What do you offer?",
+      "answer": "Shorten the range",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m037-practice-move-64-easier",
+          "quote": "shorten the range"
+        }
+      ],
+      "exercise": "Practice Move 64",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-64-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 64?",
+      "answer": "Lifting the shoulders",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m037-practice-move-64-mistake",
+          "quote": "lifting the shoulders"
+        }
+      ],
+      "exercise": "Practice Move 64",
+      "facet": "mistakes",
+      "choices": [
+        "Lifting the shoulders",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-64-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 64 uses, hands first.",
+      "answer": "Front rail, sliding deck",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m037-practice-move-64-setup",
+          "quote": "the hands on the front rail and the feet on the sliding deck"
+        }
+      ],
+      "exercise": "Practice Move 64",
+      "facet": "position",
+      "parts": [
+        "front rail",
+        "sliding deck"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-64-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 64 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 64",
+      "facet": "load"
+    },
+    {
+      "id": "practice-move-69-setup",
+      "category": "Balance work",
+      "type": "cue",
+      "prompt": "Cue the setup for Practice Move 69.",
+      "answer": "Hands on the back step, feet on the low step",
+      "explanation": "Give the hands first, then the feet.",
+      "citations": [
+        {
+          "passageId": "m042-practice-move-69-setup",
+          "quote": "the hands on the back step and the feet on the low step"
+        }
+      ],
+      "exercise": "Practice Move 69",
+      "facet": "position"
+    },
+    {
+      "id": "practice-move-69-pace",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "What is the pace of Practice Move 69?",
+      "answer": "4 counts out, 2 counts back",
+      "explanation": "The count sets the tempo for the whole group.",
+      "citations": [
+        {
+          "passageId": "m042-practice-move-69-pace",
+          "quote": "4 counts out and 2 counts back"
+        }
+      ],
+      "exercise": "Practice Move 69",
+      "facet": "timing"
+    },
+    {
+      "id": "practice-move-69-easier",
+      "category": "Balance work",
+      "type": "scenario",
+      "prompt": "A client finds Practice Move 69 too hard. What do you offer?",
+      "answer": "Keep one knee down",
+      "explanation": "The easier option keeps the move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m042-practice-move-69-easier",
+          "quote": "keep one knee down"
+        }
+      ],
+      "exercise": "Practice Move 69",
+      "facet": "options"
+    },
+    {
+      "id": "practice-move-69-mistake",
+      "category": "Balance work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Practice Move 69?",
+      "answer": "Lifting the shoulders",
+      "explanation": "Watch for it from the first count.",
+      "citations": [
+        {
+          "passageId": "m042-practice-move-69-mistake",
+          "quote": "lifting the shoulders"
+        }
+      ],
+      "exercise": "Practice Move 69",
+      "facet": "mistakes",
+      "choices": [
+        "Lifting the shoulders",
+        "Rushing the return",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "practice-move-69-parts",
+      "category": "Balance work",
+      "type": "list",
+      "prompt": "Name the two places Practice Move 69 uses, hands first.",
+      "answer": "Back step, low step",
+      "explanation": "Hands and feet each have one place.",
+      "citations": [
+        {
+          "passageId": "m042-practice-move-69-setup",
+          "quote": "the hands on the back step and the feet on the low step"
+        }
+      ],
+      "exercise": "Practice Move 69",
+      "facet": "position",
+      "parts": [
+        "back step",
+        "low step"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "practice-move-69-band",
+      "category": "Balance work",
+      "type": "recall",
+      "prompt": "Which band does Practice Move 69 start on?",
+      "answer": "Green",
+      "explanation": "Every practice move starts light.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "Green is light"
+        }
+      ],
+      "exercise": "Practice Move 69",
+      "facet": "load"
+    }
+  ]
+}

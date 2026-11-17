@@ -1,0 +1,53 @@
+{
+  "category": "Coaching voice",
+  "items": [
+    {
+      "id": "voice-order",
+      "category": "Coaching voice",
+      "type": "list",
+      "prompt": "Which cue order fits a new move?",
+      "answer": "Pace, setup, name",
+      "explanation": "Setting the count first gets everyone moving together before the details.",
+      "citations": [
+        {
+          "passageId": "m024-voice-pace-first",
+          "quote": "Set the pace first, then give the setup, and name the move last."
+        }
+      ],
+      "parts": [
+        "pace",
+        "setup",
+        "name"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "voice-short",
+      "category": "Coaching voice",
+      "type": "recall",
+      "prompt": "How many ideas should one cue carry?",
+      "answer": "One",
+      "explanation": "Short cues are easier to follow while moving.",
+      "citations": [
+        {
+          "passageId": "m025-voice-short-cues",
+          "quote": "One idea per cue"
+        }
+      ]
+    },
+    {
+      "id": "voice-close",
+      "category": "Coaching voice",
+      "type": "recall",
+      "prompt": "How do you end a set?",
+      "answer": "With a clear finish so everyone knows the move is over",
+      "explanation": "A clear close stops people from guessing whether to keep going.",
+      "citations": [
+        {
+          "passageId": "v1-01-video-close-set",
+          "quote": "Close the set with a clear finish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "category": "Standing work",
+  "reviews": [
+    {
+      "itemId": "sample-move-b-setup",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    },
+    {
+      "itemId": "sample-move-b-mistake",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    }
+  ]
+}

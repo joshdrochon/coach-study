@@ -1,0 +1,20 @@
+.s {
+  width: var(--size-icon-s);
+  height: var(--size-icon-s);
+  flex: none;
+}
+.m {
+  width: var(--size-icon);
+  height: var(--size-icon);
+  flex: none;
+}
+.l {
+  width: var(--size-icon-l);
+  height: var(--size-icon-l);
+  flex: none;
+}
+.xl {
+  width: var(--size-icon-xl);
+  height: var(--size-icon-xl);
+  flex: none;
+}

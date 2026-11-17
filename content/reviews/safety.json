@@ -1,0 +1,11 @@
+{
+  "category": "Basics",
+  "reviews": [
+    {
+      "itemId": "safety-pain",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    }
+  ]
+}

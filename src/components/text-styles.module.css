@@ -1,0 +1,154 @@
+/* Generated from design/tokens.json by `pnpm tokens`. Do not edit. */
+/* The only place in the app that sets font family, size, weight, line height or tracking. */
+.headline-xl {
+  font-family: var(--type-headline-xl-family);
+  font-size: var(--type-headline-xl-size);
+  line-height: var(--type-headline-xl-line);
+  font-weight: var(--type-headline-xl-weight);
+  letter-spacing: var(--type-headline-xl-tracking);
+  text-transform: var(--type-headline-xl-case);
+}
+.headline-l {
+  font-family: var(--type-headline-l-family);
+  font-size: var(--type-headline-l-size);
+  line-height: var(--type-headline-l-line);
+  font-weight: var(--type-headline-l-weight);
+  letter-spacing: var(--type-headline-l-tracking);
+  text-transform: var(--type-headline-l-case);
+}
+.headline-m {
+  font-family: var(--type-headline-m-family);
+  font-size: var(--type-headline-m-size);
+  line-height: var(--type-headline-m-line);
+  font-weight: var(--type-headline-m-weight);
+  letter-spacing: var(--type-headline-m-tracking);
+  text-transform: var(--type-headline-m-case);
+}
+.question-xl {
+  font-family: var(--type-question-xl-family);
+  font-size: var(--type-question-xl-size);
+  line-height: var(--type-question-xl-line);
+  font-weight: var(--type-question-xl-weight);
+  letter-spacing: var(--type-question-xl-tracking);
+  text-transform: var(--type-question-xl-case);
+}
+.figure {
+  font-family: var(--type-figure-family);
+  font-size: var(--type-figure-size);
+  line-height: var(--type-figure-line);
+  font-weight: var(--type-figure-weight);
+  letter-spacing: var(--type-figure-tracking);
+  text-transform: var(--type-figure-case);
+}
+.title-l {
+  font-family: var(--type-title-l-family);
+  font-size: var(--type-title-l-size);
+  line-height: var(--type-title-l-line);
+  font-weight: var(--type-title-l-weight);
+  letter-spacing: var(--type-title-l-tracking);
+  text-transform: var(--type-title-l-case);
+}
+.transcript {
+  font-family: var(--type-transcript-family);
+  font-size: var(--type-transcript-size);
+  line-height: var(--type-transcript-line);
+  font-weight: var(--type-transcript-weight);
+  letter-spacing: var(--type-transcript-tracking);
+  text-transform: var(--type-transcript-case);
+}
+.title {
+  font-family: var(--type-title-family);
+  font-size: var(--type-title-size);
+  line-height: var(--type-title-line);
+  font-weight: var(--type-title-weight);
+  letter-spacing: var(--type-title-tracking);
+  text-transform: var(--type-title-case);
+}
+.subtitle {
+  font-family: var(--type-subtitle-family);
+  font-size: var(--type-subtitle-size);
+  line-height: var(--type-subtitle-line);
+  font-weight: var(--type-subtitle-weight);
+  letter-spacing: var(--type-subtitle-tracking);
+  text-transform: var(--type-subtitle-case);
+}
+.button {
+  font-family: var(--type-button-family);
+  font-size: var(--type-button-size);
+  line-height: var(--type-button-line);
+  font-weight: var(--type-button-weight);
+  letter-spacing: var(--type-button-tracking);
+  text-transform: var(--type-button-case);
+}
+.button-l {
+  font-family: var(--type-button-l-family);
+  font-size: var(--type-button-l-size);
+  line-height: var(--type-button-l-line);
+  font-weight: var(--type-button-l-weight);
+  letter-spacing: var(--type-button-l-tracking);
+  text-transform: var(--type-button-l-case);
+}
+.body-l {
+  font-family: var(--type-body-l-family);
+  font-size: var(--type-body-l-size);
+  line-height: var(--type-body-l-line);
+  font-weight: var(--type-body-l-weight);
+  letter-spacing: var(--type-body-l-tracking);
+  text-transform: var(--type-body-l-case);
+}
+.body-l-strong {
+  font-family: var(--type-body-l-strong-family);
+  font-size: var(--type-body-l-strong-size);
+  line-height: var(--type-body-l-strong-line);
+  font-weight: var(--type-body-l-strong-weight);
+  letter-spacing: var(--type-body-l-strong-tracking);
+  text-transform: var(--type-body-l-strong-case);
+}
+.body {
+  font-family: var(--type-body-family);
+  font-size: var(--type-body-size);
+  line-height: var(--type-body-line);
+  font-weight: var(--type-body-weight);
+  letter-spacing: var(--type-body-tracking);
+  text-transform: var(--type-body-case);
+}
+.body-strong {
+  font-family: var(--type-body-strong-family);
+  font-size: var(--type-body-strong-size);
+  line-height: var(--type-body-strong-line);
+  font-weight: var(--type-body-strong-weight);
+  letter-spacing: var(--type-body-strong-tracking);
+  text-transform: var(--type-body-strong-case);
+}
+.label {
+  font-family: var(--type-label-family);
+  font-size: var(--type-label-size);
+  line-height: var(--type-label-line);
+  font-weight: var(--type-label-weight);
+  letter-spacing: var(--type-label-tracking);
+  text-transform: var(--type-label-case);
+}
+.caption {
+  font-family: var(--type-caption-family);
+  font-size: var(--type-caption-size);
+  line-height: var(--type-caption-line);
+  font-weight: var(--type-caption-weight);
+  letter-spacing: var(--type-caption-tracking);
+  text-transform: var(--type-caption-case);
+}
+.caption-strong {
+  font-family: var(--type-caption-strong-family);
+  font-size: var(--type-caption-strong-size);
+  line-height: var(--type-caption-strong-line);
+  font-weight: var(--type-caption-strong-weight);
+  letter-spacing: var(--type-caption-strong-tracking);
+  text-transform: var(--type-caption-strong-case);
+}
+.code {
+  font-family: var(--type-code-family);
+  font-size: var(--type-code-size);
+  line-height: var(--type-code-line);
+  font-weight: var(--type-code-weight);
+  letter-spacing: var(--type-code-tracking);
+  text-transform: var(--type-code-case);
+}

@@ -1,0 +1,24 @@
+.disc {
+  align-self: center;
+  width: var(--size-orb);
+  height: var(--size-orb);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: var(--border-orb) solid var(--color-border-control);
+  background: var(--color-surface);
+  color: var(--color-text-muted);
+}
+
+.icon {
+  width: var(--size-icon-xl);
+  height: var(--size-icon-xl);
+  flex: none;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-12);
+}

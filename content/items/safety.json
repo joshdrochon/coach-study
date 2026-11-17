@@ -1,0 +1,19 @@
+{
+  "category": "Basics",
+  "items": [
+    {
+      "id": "safety-pain",
+      "category": "Basics",
+      "type": "scenario",
+      "prompt": "A client reports sharp pain. What do you do?",
+      "answer": "Stop the move and offer an easier option",
+      "explanation": "Sharp pain always stops the move.",
+      "citations": [
+        {
+          "passageId": "m030-safety-pain",
+          "quote": "stop the move and offer an easier option"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "category": "Gear",
+  "items": [
+    {
+      "id": "station-parts",
+      "category": "Gear",
+      "type": "list",
+      "prompt": "Name the three parts of the practice station.",
+      "answer": "Front rail, sliding deck, back step",
+      "explanation": "The practice station has three parts you will cue by name.",
+      "citations": [
+        {
+          "passageId": "m008-station-parts",
+          "quote": "a front rail, a sliding deck and a back step"
+        }
+      ],
+      "parts": [
+        "front rail",
+        "sliding deck",
+        "back step"
+      ]
+    },
+    {
+      "id": "band-colors",
+      "category": "Gear",
+      "type": "recall",
+      "prompt": "Which band color is the heaviest?",
+      "answer": "Red",
+      "explanation": "Bands go from light to heavy: green, blue, red.",
+      "citations": [
+        {
+          "passageId": "m009-resistance-bands",
+          "quote": "red is heavy"
+        }
+      ],
+      "choices": [
+        "Green",
+        "Blue",
+        "Red"
+      ]
+    }
+  ]
+}

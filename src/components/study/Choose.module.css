@@ -1,0 +1,24 @@
+.header {
+  min-height: var(--size-control);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--space-12);
+}
+
+.sheet {
+  width: 100%;
+  max-width: 55rem;
+  margin-block: auto;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-32);
+  text-align: left;
+}
+
+@media (min-width: 1180px) {
+  .sheet {
+    max-width: var(--size-column-three);
+  }
+}

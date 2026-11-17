@@ -1,0 +1,42 @@
+{
+  "category": "Standing work",
+  "items": [
+    {
+      "id": "sample-move-b-setup",
+      "category": "Standing work",
+      "type": "cue",
+      "prompt": "Cue the setup for Sample Move B.",
+      "answer": "Stand on the back step, facing the rail",
+      "explanation": "Sample Move B is the only sample move that starts standing.",
+      "citations": [
+        {
+          "passageId": "m016-sample-move-b-setup",
+          "quote": "standing on the back step, facing the rail"
+        }
+      ],
+      "exercise": "Sample Move B",
+      "facet": "position"
+    },
+    {
+      "id": "sample-move-b-mistake",
+      "category": "Standing work",
+      "type": "audit",
+      "prompt": "What is the most common mistake in Sample Move B?",
+      "answer": "Rushing the return",
+      "explanation": "Watch the way back: that is where clients speed up.",
+      "citations": [
+        {
+          "passageId": "m017-sample-move-b-mistake",
+          "quote": "rushing the return"
+        }
+      ],
+      "exercise": "Sample Move B",
+      "facet": "mistakes",
+      "choices": [
+        "Rushing the return",
+        "Starting too low",
+        "Holding the breath"
+      ]
+    }
+  ]
+}

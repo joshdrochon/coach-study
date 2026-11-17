@@ -1,0 +1,39 @@
+{
+  "category": "Basics",
+  "items": [
+    {
+      "id": "session-phases",
+      "category": "Basics",
+      "type": "list",
+      "prompt": "Name the three phases of a sample session, in order.",
+      "answer": "Warm-up, main set, cool-down",
+      "explanation": "Every sample session runs through three phases, always in one order.",
+      "citations": [
+        {
+          "passageId": "m005-three-phases",
+          "quote": "three phases: warm-up, main set and cool-down"
+        }
+      ],
+      "parts": [
+        "warm-up",
+        "main set",
+        "cool-down"
+      ],
+      "ordered": true
+    },
+    {
+      "id": "session-feel",
+      "category": "Basics",
+      "type": "recall",
+      "prompt": "How should every session feel?",
+      "answer": "Calm, clear and safe",
+      "explanation": "The goal of every session is that it feels calm, clear and safe for the group.",
+      "citations": [
+        {
+          "passageId": "m003-welcome-goal",
+          "quote": "Every session should feel calm, clear and safe."
+        }
+      ]
+    }
+  ]
+}

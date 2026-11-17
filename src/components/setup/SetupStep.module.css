@@ -1,0 +1,12 @@
+.step {
+  min-height: 33rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-32);
+}
+
+@media (display-mode: standalone) {
+  .safariOnly {
+    visibility: hidden;
+  }
+}

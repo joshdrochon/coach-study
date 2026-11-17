@@ -1,0 +1,509 @@
+{
+  "category": "Balance work",
+  "reviews": [
+    {
+      "itemId": "practice-move-04-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-04-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-04-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-04-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-04-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-04-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-09-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-09-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-09-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-09-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-09-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-09-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-14-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-14-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-14-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-14-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-14-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-14-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-19-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-19-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-19-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-19-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-19-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-19-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-24-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-24-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-24-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-24-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-24-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-24-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-29-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-29-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-29-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-29-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-29-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-29-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-34-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-34-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-34-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-34-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-34-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-34-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-39-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-39-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-39-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-39-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-39-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-39-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-44-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-44-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-44-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-44-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-44-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-44-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-49-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-49-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-49-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-49-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-49-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-49-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-54-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-54-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-54-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-54-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-54-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-54-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-59-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-59-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-59-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-59-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-59-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-59-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-64-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-64-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-64-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-64-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-64-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-64-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-69-setup",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-69-pace",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-69-easier",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-69-mistake",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-69-parts",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    },
+    {
+      "itemId": "practice-move-69-band",
+      "verdict": "accepted",
+      "reason": "Generated sample card.",
+      "round": 1
+    }
+  ]
+}

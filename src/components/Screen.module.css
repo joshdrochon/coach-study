@@ -1,0 +1,94 @@
+.frame {
+  min-height: 100dvh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  padding: calc(var(--space-32) + env(safe-area-inset-top))
+    calc(var(--space-48) + env(safe-area-inset-right))
+    calc(var(--space-40) + env(safe-area-inset-bottom))
+    calc(var(--space-48) + env(safe-area-inset-left));
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+.header,
+.footer {
+  min-height: var(--size-control);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-16);
+}
+
+.headerStart {
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+}
+
+.headerEnd {
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  margin-left: auto;
+}
+
+.header {
+  grid-row: 1;
+}
+
+.footer {
+  grid-row: 3;
+  justify-content: flex-end;
+}
+
+.main {
+  grid-row: 2;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.moment {
+  align-self: center;
+  justify-self: center;
+  width: 100%;
+  max-width: 45rem;
+  gap: var(--space-32);
+  align-items: stretch;
+  text-align: center;
+}
+
+.sheet {
+  align-self: center;
+  justify-self: center;
+  width: 100%;
+  max-width: 45rem;
+  gap: var(--space-32);
+  text-align: left;
+}
+
+.wide {
+  max-width: 55rem;
+}
+
+@media (min-width: 1180px) {
+  .threeColumns {
+    max-width: var(--size-column-three);
+  }
+}
+
+.workspace {
+  align-self: start;
+  width: 100%;
+  gap: var(--space-24);
+  text-align: left;
+}
+
+@media (max-width: 743px) {
+  .frame {
+    padding: calc(var(--space-24) + env(safe-area-inset-top))
+      calc(var(--space-24) + env(safe-area-inset-right))
+      calc(var(--space-24) + env(safe-area-inset-bottom))
+      calc(var(--space-24) + env(safe-area-inset-left));
+  }
+}

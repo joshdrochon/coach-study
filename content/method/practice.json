@@ -1,0 +1,142 @@
+{
+  "phrases": {
+    "pace": [
+      "slow count",
+      "count of four",
+      "four counts",
+      "two counts",
+      "steady pace",
+      "nice and slow",
+      "hold for"
+    ],
+    "easier": [
+      "easier",
+      "knee down",
+      "shorten the range",
+      "smaller range",
+      "slow it down",
+      "take a break"
+    ],
+    "finish": [
+      "and done",
+      "that's it",
+      "last one",
+      "finish there",
+      "relax",
+      "well done"
+    ],
+    "hedges": [
+      "kind of",
+      "sort of",
+      "maybe try",
+      "i guess"
+    ],
+    "cheers": [
+      "nice work",
+      "great job",
+      "well done",
+      "keep going",
+      "looking good"
+    ]
+  },
+  "moves": [
+    {
+      "id": "sample-move-a",
+      "name": "Sample Move A",
+      "say": {
+        "name": [
+          "sample move a",
+          "move a"
+        ],
+        "setup": [
+          "front rail",
+          "sliding deck"
+        ]
+      }
+    },
+    {
+      "id": "sample-move-b",
+      "name": "Sample Move B",
+      "say": {
+        "name": [
+          "sample move b",
+          "move b"
+        ],
+        "setup": [
+          "back step",
+          "facing the rail"
+        ]
+      }
+    },
+    {
+      "id": "sample-move-c",
+      "name": "Sample Move C",
+      "say": {
+        "name": [
+          "sample move c",
+          "move c"
+        ],
+        "setup": [
+          "low step",
+          "hands wide"
+        ]
+      }
+    },
+    {
+      "id": "sample-move-d",
+      "name": "Sample Move D",
+      "say": {
+        "name": [
+          "sample move d",
+          "move d"
+        ],
+        "setup": [
+          "one foot forward",
+          "hold the rail"
+        ]
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "warm-up-1",
+      "kind": "warm-up",
+      "sequence": 1,
+      "title": "Warm-up: A then B",
+      "moves": [
+        "sample-move-a",
+        "sample-move-b"
+      ]
+    },
+    {
+      "id": "main-set-1",
+      "kind": "main-set",
+      "sequence": 2,
+      "title": "Main set: C then D",
+      "moves": [
+        "sample-move-c",
+        "sample-move-d"
+      ]
+    },
+    {
+      "id": "main-set-2",
+      "kind": "main-set",
+      "sequence": 3,
+      "title": "Main set: B then C",
+      "moves": [
+        "sample-move-b",
+        "sample-move-c"
+      ]
+    },
+    {
+      "id": "cool-down-1",
+      "kind": "cool-down",
+      "sequence": 4,
+      "title": "Cool-down: D then A",
+      "moves": [
+        "sample-move-d",
+        "sample-move-a"
+      ]
+    }
+  ]
+}

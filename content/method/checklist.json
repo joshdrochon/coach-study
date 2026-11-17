@@ -1,0 +1,167 @@
+{
+  "name": "Sample Move method",
+  "goal": {
+    "inARow": 3,
+    "targetDate": "2030-01-15"
+  },
+  "scenes": [
+    {
+      "kind": "warm-up",
+      "title": "Warm-up"
+    },
+    {
+      "kind": "main-set",
+      "title": "Main set"
+    },
+    {
+      "kind": "cool-down",
+      "title": "Cool-down"
+    }
+  ],
+  "gates": [
+    {
+      "id": "B1",
+      "mustPass": true,
+      "name": "Gives a pace cue",
+      "label": "Give one pace cue while the move runs",
+      "appliesTo": [
+        "main-set"
+      ],
+      "rule": {
+        "kind": "say",
+        "scope": "each-move",
+        "parts": [
+          "pace"
+        ],
+        "ordered": false
+      }
+    },
+    {
+      "id": "C1",
+      "mustPass": true,
+      "name": "Closes the set",
+      "label": "Close the set with a clear finish",
+      "appliesTo": [
+        "cool-down"
+      ],
+      "rule": {
+        "kind": "say",
+        "scope": "last-move",
+        "parts": [
+          "finish"
+        ],
+        "ordered": false,
+        "window": {
+          "from": "end",
+          "ms": 15000
+        }
+      }
+    },
+    {
+      "id": "A2",
+      "mustPass": true,
+      "name": "Gives the setup",
+      "label": "Place each hand and foot by name",
+      "appliesTo": [
+        "warm-up",
+        "main-set"
+      ],
+      "rule": {
+        "kind": "say",
+        "scope": "each-move",
+        "parts": [
+          {
+            "group": "move:setup",
+            "all": true
+          }
+        ],
+        "ordered": false
+      }
+    },
+    {
+      "id": "A1",
+      "mustPass": true,
+      "name": "Names the move",
+      "label": "Say the move's name before it starts",
+      "appliesTo": [
+        "warm-up",
+        "main-set"
+      ],
+      "rule": {
+        "kind": "say",
+        "scope": "each-move",
+        "parts": [
+          "move:name"
+        ],
+        "ordered": false,
+        "window": {
+          "from": "start",
+          "ms": 25000
+        }
+      }
+    },
+    {
+      "id": "D1",
+      "mustPass": false,
+      "name": "Encourages the group",
+      "label": "Encourage the group by name or effort",
+      "appliesTo": [
+        "main-set",
+        "cool-down"
+      ],
+      "rule": {
+        "kind": "tutor",
+        "ask": "Did the coach say at least one encouraging line to the group (praise for effort, or a client by name)? Quote it."
+      }
+    },
+    {
+      "id": "B2",
+      "mustPass": false,
+      "name": "Offers an easier option",
+      "label": "Offer an easier option",
+      "appliesTo": [
+        "main-set",
+        "cool-down"
+      ],
+      "rule": {
+        "kind": "say",
+        "scope": "practice",
+        "parts": [
+          "easier"
+        ],
+        "ordered": false
+      }
+    },
+    {
+      "id": "C2",
+      "mustPass": false,
+      "name": "Cheers the group on",
+      "label": "Cheer the group on at least twice",
+      "appliesTo": [
+        "warm-up",
+        "main-set",
+        "cool-down"
+      ],
+      "rule": {
+        "kind": "repeat",
+        "phrases": "cheers",
+        "atLeast": 2
+      }
+    },
+    {
+      "id": "B3",
+      "mustPass": false,
+      "name": "Keeps cues direct",
+      "label": "Skip the hedging words",
+      "appliesTo": [
+        "warm-up",
+        "main-set",
+        "cool-down"
+      ],
+      "rule": {
+        "kind": "avoid",
+        "phrases": "hedges"
+      }
+    }
+  ]
+}

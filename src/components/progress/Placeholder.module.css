@@ -1,0 +1,19 @@
+.placeholder {
+  display: block;
+  border-radius: var(--radius-xs);
+  background: var(--color-surface-2);
+  color: transparent;
+  user-select: none;
+}
+
+.full {
+  width: 100%;
+}
+
+.half {
+  width: 50%;
+}
+
+.third {
+  width: 33%;
+}

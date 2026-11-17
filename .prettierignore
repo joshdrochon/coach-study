@@ -1,0 +1,13 @@
+design/
+content/
+coverage/
+drizzle/
+.next/
+node_modules/
+pnpm-lock.yaml
+next-env.d.ts
+.husky/
+src/styles/tokens.css
+src/styles/tokens.ts
+src/components/text-styles.module.css
+tsconfig.json

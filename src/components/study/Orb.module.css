@@ -1,0 +1,75 @@
+.orbWithLabel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  gap: var(--space-16);
+}
+
+@media (max-height: 56.25rem) {
+  .compact {
+    gap: var(--space-12);
+  }
+}
+
+.orb {
+  width: var(--size-orb);
+  height: var(--size-orb);
+  flex: none;
+  border-radius: 50%;
+  border: var(--border-orb) solid var(--color-accent);
+  background: var(--color-accent-panel);
+  color: var(--color-accent-text-strong);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition:
+    background-color 150ms ease,
+    border-color 150ms ease,
+    color 150ms ease;
+}
+
+.waiting {
+  border-color: var(--color-border-control);
+  background: var(--color-surface);
+  color: var(--color-text-muted);
+}
+
+.checking {
+  border-color: var(--color-accent-panel-border);
+}
+
+.sent {
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+}
+
+.blocked {
+  border-color: var(--color-border-control);
+  background: var(--color-surface);
+  color: var(--color-text-muted);
+}
+
+.listening {
+  border-color: var(--color-accent);
+}
+
+.still,
+.turning {
+  display: inline-flex;
+}
+
+.turning {
+  animation: turn 1200ms linear infinite;
+}
+
+@keyframes turn {
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+.label {
+  align-self: stretch;
+  text-align: center;
+}

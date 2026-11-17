@@ -1,0 +1,17 @@
+{
+  "category": "Glossary",
+  "reviews": [
+    {
+      "itemId": "term-tempo",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    },
+    {
+      "itemId": "term-range",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    }
+  ]
+}

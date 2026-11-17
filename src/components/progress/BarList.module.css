@@ -1,0 +1,63 @@
+.rows {
+  container-type: inline-size;
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: grid;
+  grid-template-areas: 'label bar value';
+  gap: var(--space-16);
+  align-items: center;
+}
+
+.label {
+  grid-area: label;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.bar {
+  grid-area: bar;
+}
+
+.value {
+  grid-area: value;
+  text-align: right;
+}
+
+.progress {
+  gap: var(--space-20);
+}
+
+.progress .row {
+  grid-template-columns: 10rem minmax(0, 1fr) var(--space-56);
+}
+
+.admin {
+  gap: var(--space-12);
+}
+
+.admin .row {
+  grid-template-columns: 10rem minmax(0, 1fr) 10rem;
+}
+
+@container (max-width: 24rem) {
+  .progress .row {
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas:
+      'label value'
+      'bar bar';
+    row-gap: var(--space-8);
+  }
+}
+
+@container (max-width: 30rem) {
+  .admin .row {
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas:
+      'label value'
+      'bar bar';
+    row-gap: var(--space-8);
+  }
+}

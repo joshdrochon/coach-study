@@ -1,0 +1,37 @@
+.frame {
+  container-type: inline-size;
+}
+
+.ladder {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--space-16);
+}
+
+@container (max-width: 28rem) {
+  .ladder {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.rung {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-8);
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+
+.dot {
+  display: block;
+  width: var(--size-icon-s);
+  height: var(--size-icon-s);
+  border-radius: 50%;
+  border: var(--border-selected) solid var(--color-border-control);
+}
+
+.current {
+  background: var(--color-accent);
+  border-color: var(--color-accent-text-strong);
+}

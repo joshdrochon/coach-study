@@ -1,0 +1,53 @@
+{
+  "category": "Floor work",
+  "items": [
+    {
+      "id": "sample-move-a-setup",
+      "category": "Floor work",
+      "type": "cue",
+      "prompt": "Cue the setup for Sample Move A.",
+      "answer": "Both hands on the front rail, both feet on the sliding deck",
+      "explanation": "Give hands first, then feet, so the client can build the position in order.",
+      "citations": [
+        {
+          "passageId": "m012-sample-move-a-setup",
+          "quote": "both hands on the front rail and both feet on the sliding deck"
+        }
+      ],
+      "exercise": "Sample Move A",
+      "facet": "position"
+    },
+    {
+      "id": "sample-move-a-pace",
+      "category": "Floor work",
+      "type": "recall",
+      "prompt": "What is the pace of Sample Move A?",
+      "answer": "Four counts out, four counts back",
+      "explanation": "Sample Move A is a slow move with an even count each way.",
+      "citations": [
+        {
+          "passageId": "m013-sample-move-a-pace",
+          "quote": "four counts out and four counts back"
+        }
+      ],
+      "exercise": "Sample Move A",
+      "facet": "timing"
+    },
+    {
+      "id": "sample-move-a-easier",
+      "category": "Floor work",
+      "type": "scenario",
+      "prompt": "A client finds Sample Move A too hard. What do you offer?",
+      "answer": "Shorten the range and keep one knee down",
+      "explanation": "The easier option keeps the same move but asks less of the body.",
+      "citations": [
+        {
+          "passageId": "m014-sample-move-a-easier",
+          "quote": "shorten the range and keep one knee down"
+        }
+      ],
+      "exercise": "Sample Move A",
+      "facet": "options"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "passages": [
+    {
+      "id": "m003-welcome-goal",
+      "kind": "manual",
+      "page": 3,
+      "text": "Every session should feel calm, clear and safe. The coach keeps the group moving at one steady pace."
+    },
+    {
+      "id": "m005-three-phases",
+      "kind": "manual",
+      "page": 5,
+      "text": "A sample session has three phases: warm-up, main set and cool-down."
+    },
+    {
+      "id": "m008-station-parts",
+      "kind": "manual",
+      "page": 8,
+      "text": "The practice station has a front rail, a sliding deck and a back step."
+    },
+    {
+      "id": "m009-resistance-bands",
+      "kind": "manual",
+      "page": 9,
+      "text": "Resistance comes from colored bands. Green is light, blue is medium and red is heavy."
+    },
+    {
+      "id": "m012-sample-move-a-setup",
+      "kind": "manual",
+      "page": 12,
+      "text": "Sample Move A starts with both hands on the front rail and both feet on the sliding deck."
+    },
+    {
+      "id": "m013-sample-move-a-pace",
+      "kind": "manual",
+      "page": 13,
+      "text": "Sample Move A runs at a slow pace: four counts out and four counts back."
+    },
+    {
+      "id": "m014-sample-move-a-easier",
+      "kind": "manual",
+      "page": 14,
+      "text": "To make Sample Move A easier, shorten the range and keep one knee down."
+    },
+    {
+      "id": "m016-sample-move-b-setup",
+      "kind": "manual",
+      "page": 16,
+      "text": "Sample Move B starts standing on the back step, facing the rail."
+    },
+    {
+      "id": "m017-sample-move-b-mistake",
+      "kind": "manual",
+      "page": 17,
+      "text": "The most common mistake in Sample Move B is rushing the return."
+    },
+    {
+      "id": "m020-term-tempo",
+      "kind": "manual",
+      "page": 20,
+      "text": "Tempo means how many counts each part of a move takes."
+    },
+    {
+      "id": "m021-term-range",
+      "kind": "manual",
+      "page": 21,
+      "text": "Range means how far the body travels in one move."
+    },
+    {
+      "id": "m024-voice-pace-first",
+      "kind": "manual",
+      "page": 24,
+      "text": "Set the pace first, then give the setup, and name the move last."
+    },
+    {
+      "id": "m025-voice-short-cues",
+      "kind": "manual",
+      "page": 25,
+      "text": "Keep cues short. One idea per cue is easier to follow than three."
+    },
+    {
+      "id": "m030-safety-pain",
+      "kind": "manual",
+      "page": 30,
+      "text": "If a client reports sharp pain, stop the move and offer an easier option."
+    },
+    {
+      "id": "v1-01-video-close-set",
+      "kind": "video",
+      "timestamp": "0:42",
+      "text": "Close the set with a clear finish so everyone knows the move is over."
+    }
+  ]
+}

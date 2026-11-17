@@ -1,0 +1,4 @@
+.lift {
+  position: relative;
+  top: var(--bracket-lift);
+}

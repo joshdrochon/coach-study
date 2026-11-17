@@ -1,0 +1,1684 @@
+{
+  "passages": [
+    {
+      "id": "m032-practice-move-01-setup",
+      "kind": "manual",
+      "page": 32,
+      "text": "Practice Move 01 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m032-practice-move-01-pace",
+      "kind": "manual",
+      "page": 32,
+      "text": "Practice Move 01 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m032-practice-move-01-easier",
+      "kind": "manual",
+      "page": 32,
+      "text": "To make Practice Move 01 easier, shorten the range."
+    },
+    {
+      "id": "m032-practice-move-01-mistake",
+      "kind": "manual",
+      "page": 32,
+      "text": "The most common mistake in Practice Move 01 is rushing the return."
+    },
+    {
+      "id": "m033-practice-move-02-setup",
+      "kind": "manual",
+      "page": 33,
+      "text": "Practice Move 02 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m033-practice-move-02-pace",
+      "kind": "manual",
+      "page": 33,
+      "text": "Practice Move 02 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m033-practice-move-02-easier",
+      "kind": "manual",
+      "page": 33,
+      "text": "To make Practice Move 02 easier, hold the rail."
+    },
+    {
+      "id": "m033-practice-move-02-mistake",
+      "kind": "manual",
+      "page": 33,
+      "text": "The most common mistake in Practice Move 02 is rushing the return."
+    },
+    {
+      "id": "m034-practice-move-03-setup",
+      "kind": "manual",
+      "page": 34,
+      "text": "Practice Move 03 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m034-practice-move-03-pace",
+      "kind": "manual",
+      "page": 34,
+      "text": "Practice Move 03 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m034-practice-move-03-easier",
+      "kind": "manual",
+      "page": 34,
+      "text": "To make Practice Move 03 easier, shorten the range."
+    },
+    {
+      "id": "m034-practice-move-03-mistake",
+      "kind": "manual",
+      "page": 34,
+      "text": "The most common mistake in Practice Move 03 is dropping the head."
+    },
+    {
+      "id": "m035-practice-move-04-setup",
+      "kind": "manual",
+      "page": 35,
+      "text": "Practice Move 04 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m035-practice-move-04-pace",
+      "kind": "manual",
+      "page": 35,
+      "text": "Practice Move 04 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m035-practice-move-04-easier",
+      "kind": "manual",
+      "page": 35,
+      "text": "To make Practice Move 04 easier, shorten the range."
+    },
+    {
+      "id": "m035-practice-move-04-mistake",
+      "kind": "manual",
+      "page": 35,
+      "text": "The most common mistake in Practice Move 04 is lifting the shoulders."
+    },
+    {
+      "id": "m036-practice-move-05-setup",
+      "kind": "manual",
+      "page": 36,
+      "text": "Practice Move 05 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m036-practice-move-05-pace",
+      "kind": "manual",
+      "page": 36,
+      "text": "Practice Move 05 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m036-practice-move-05-easier",
+      "kind": "manual",
+      "page": 36,
+      "text": "To make Practice Move 05 easier, shorten the range."
+    },
+    {
+      "id": "m036-practice-move-05-mistake",
+      "kind": "manual",
+      "page": 36,
+      "text": "The most common mistake in Practice Move 05 is holding the breath."
+    },
+    {
+      "id": "m037-practice-move-06-setup",
+      "kind": "manual",
+      "page": 37,
+      "text": "Practice Move 06 starts with the hands on the back step and the feet on the low step."
+    },
+    {
+      "id": "m037-practice-move-06-pace",
+      "kind": "manual",
+      "page": 37,
+      "text": "Practice Move 06 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m037-practice-move-06-easier",
+      "kind": "manual",
+      "page": 37,
+      "text": "To make Practice Move 06 easier, shorten the range."
+    },
+    {
+      "id": "m037-practice-move-06-mistake",
+      "kind": "manual",
+      "page": 37,
+      "text": "The most common mistake in Practice Move 06 is lifting the shoulders."
+    },
+    {
+      "id": "m038-practice-move-07-setup",
+      "kind": "manual",
+      "page": 38,
+      "text": "Practice Move 07 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m038-practice-move-07-pace",
+      "kind": "manual",
+      "page": 38,
+      "text": "Practice Move 07 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m038-practice-move-07-easier",
+      "kind": "manual",
+      "page": 38,
+      "text": "To make Practice Move 07 easier, slow the count."
+    },
+    {
+      "id": "m038-practice-move-07-mistake",
+      "kind": "manual",
+      "page": 38,
+      "text": "The most common mistake in Practice Move 07 is rushing the return."
+    },
+    {
+      "id": "m039-practice-move-08-setup",
+      "kind": "manual",
+      "page": 39,
+      "text": "Practice Move 08 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m039-practice-move-08-pace",
+      "kind": "manual",
+      "page": 39,
+      "text": "Practice Move 08 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m039-practice-move-08-easier",
+      "kind": "manual",
+      "page": 39,
+      "text": "To make Practice Move 08 easier, keep one knee down."
+    },
+    {
+      "id": "m039-practice-move-08-mistake",
+      "kind": "manual",
+      "page": 39,
+      "text": "The most common mistake in Practice Move 08 is holding the breath."
+    },
+    {
+      "id": "m040-practice-move-09-setup",
+      "kind": "manual",
+      "page": 40,
+      "text": "Practice Move 09 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m040-practice-move-09-pace",
+      "kind": "manual",
+      "page": 40,
+      "text": "Practice Move 09 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m040-practice-move-09-easier",
+      "kind": "manual",
+      "page": 40,
+      "text": "To make Practice Move 09 easier, use the green band."
+    },
+    {
+      "id": "m040-practice-move-09-mistake",
+      "kind": "manual",
+      "page": 40,
+      "text": "The most common mistake in Practice Move 09 is lifting the shoulders."
+    },
+    {
+      "id": "m041-practice-move-10-setup",
+      "kind": "manual",
+      "page": 41,
+      "text": "Practice Move 10 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m041-practice-move-10-pace",
+      "kind": "manual",
+      "page": 41,
+      "text": "Practice Move 10 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m041-practice-move-10-easier",
+      "kind": "manual",
+      "page": 41,
+      "text": "To make Practice Move 10 easier, hold the rail."
+    },
+    {
+      "id": "m041-practice-move-10-mistake",
+      "kind": "manual",
+      "page": 41,
+      "text": "The most common mistake in Practice Move 10 is lifting the shoulders."
+    },
+    {
+      "id": "m042-practice-move-11-setup",
+      "kind": "manual",
+      "page": 42,
+      "text": "Practice Move 11 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m042-practice-move-11-pace",
+      "kind": "manual",
+      "page": 42,
+      "text": "Practice Move 11 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m042-practice-move-11-easier",
+      "kind": "manual",
+      "page": 42,
+      "text": "To make Practice Move 11 easier, shorten the range."
+    },
+    {
+      "id": "m042-practice-move-11-mistake",
+      "kind": "manual",
+      "page": 42,
+      "text": "The most common mistake in Practice Move 11 is lifting the shoulders."
+    },
+    {
+      "id": "m043-practice-move-12-setup",
+      "kind": "manual",
+      "page": 43,
+      "text": "Practice Move 12 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m043-practice-move-12-pace",
+      "kind": "manual",
+      "page": 43,
+      "text": "Practice Move 12 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m043-practice-move-12-easier",
+      "kind": "manual",
+      "page": 43,
+      "text": "To make Practice Move 12 easier, shorten the range."
+    },
+    {
+      "id": "m043-practice-move-12-mistake",
+      "kind": "manual",
+      "page": 43,
+      "text": "The most common mistake in Practice Move 12 is lifting the shoulders."
+    },
+    {
+      "id": "m044-practice-move-13-setup",
+      "kind": "manual",
+      "page": 44,
+      "text": "Practice Move 13 starts with the hands on the front rail and the feet on the back step."
+    },
+    {
+      "id": "m044-practice-move-13-pace",
+      "kind": "manual",
+      "page": 44,
+      "text": "Practice Move 13 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m044-practice-move-13-easier",
+      "kind": "manual",
+      "page": 44,
+      "text": "To make Practice Move 13 easier, keep one knee down."
+    },
+    {
+      "id": "m044-practice-move-13-mistake",
+      "kind": "manual",
+      "page": 44,
+      "text": "The most common mistake in Practice Move 13 is locking the knees."
+    },
+    {
+      "id": "m045-practice-move-14-setup",
+      "kind": "manual",
+      "page": 45,
+      "text": "Practice Move 14 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m045-practice-move-14-pace",
+      "kind": "manual",
+      "page": 45,
+      "text": "Practice Move 14 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m045-practice-move-14-easier",
+      "kind": "manual",
+      "page": 45,
+      "text": "To make Practice Move 14 easier, use the green band."
+    },
+    {
+      "id": "m045-practice-move-14-mistake",
+      "kind": "manual",
+      "page": 45,
+      "text": "The most common mistake in Practice Move 14 is locking the knees."
+    },
+    {
+      "id": "m046-practice-move-15-setup",
+      "kind": "manual",
+      "page": 46,
+      "text": "Practice Move 15 starts with the hands on the front rail and the feet on the sliding deck."
+    },
+    {
+      "id": "m046-practice-move-15-pace",
+      "kind": "manual",
+      "page": 46,
+      "text": "Practice Move 15 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m046-practice-move-15-easier",
+      "kind": "manual",
+      "page": 46,
+      "text": "To make Practice Move 15 easier, shorten the range."
+    },
+    {
+      "id": "m046-practice-move-15-mistake",
+      "kind": "manual",
+      "page": 46,
+      "text": "The most common mistake in Practice Move 15 is lifting the shoulders."
+    },
+    {
+      "id": "m047-practice-move-16-setup",
+      "kind": "manual",
+      "page": 47,
+      "text": "Practice Move 16 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m047-practice-move-16-pace",
+      "kind": "manual",
+      "page": 47,
+      "text": "Practice Move 16 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m047-practice-move-16-easier",
+      "kind": "manual",
+      "page": 47,
+      "text": "To make Practice Move 16 easier, use the green band."
+    },
+    {
+      "id": "m047-practice-move-16-mistake",
+      "kind": "manual",
+      "page": 47,
+      "text": "The most common mistake in Practice Move 16 is dropping the head."
+    },
+    {
+      "id": "m048-practice-move-17-setup",
+      "kind": "manual",
+      "page": 48,
+      "text": "Practice Move 17 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m048-practice-move-17-pace",
+      "kind": "manual",
+      "page": 48,
+      "text": "Practice Move 17 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m048-practice-move-17-easier",
+      "kind": "manual",
+      "page": 48,
+      "text": "To make Practice Move 17 easier, shorten the range."
+    },
+    {
+      "id": "m048-practice-move-17-mistake",
+      "kind": "manual",
+      "page": 48,
+      "text": "The most common mistake in Practice Move 17 is lifting the shoulders."
+    },
+    {
+      "id": "m049-practice-move-18-setup",
+      "kind": "manual",
+      "page": 49,
+      "text": "Practice Move 18 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m049-practice-move-18-pace",
+      "kind": "manual",
+      "page": 49,
+      "text": "Practice Move 18 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m049-practice-move-18-easier",
+      "kind": "manual",
+      "page": 49,
+      "text": "To make Practice Move 18 easier, slow the count."
+    },
+    {
+      "id": "m049-practice-move-18-mistake",
+      "kind": "manual",
+      "page": 49,
+      "text": "The most common mistake in Practice Move 18 is dropping the head."
+    },
+    {
+      "id": "m050-practice-move-19-setup",
+      "kind": "manual",
+      "page": 50,
+      "text": "Practice Move 19 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m050-practice-move-19-pace",
+      "kind": "manual",
+      "page": 50,
+      "text": "Practice Move 19 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m050-practice-move-19-easier",
+      "kind": "manual",
+      "page": 50,
+      "text": "To make Practice Move 19 easier, hold the rail."
+    },
+    {
+      "id": "m050-practice-move-19-mistake",
+      "kind": "manual",
+      "page": 50,
+      "text": "The most common mistake in Practice Move 19 is lifting the shoulders."
+    },
+    {
+      "id": "m051-practice-move-20-setup",
+      "kind": "manual",
+      "page": 51,
+      "text": "Practice Move 20 starts with the hands on the sliding deck and the feet on the back step."
+    },
+    {
+      "id": "m051-practice-move-20-pace",
+      "kind": "manual",
+      "page": 51,
+      "text": "Practice Move 20 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m051-practice-move-20-easier",
+      "kind": "manual",
+      "page": 51,
+      "text": "To make Practice Move 20 easier, hold the rail."
+    },
+    {
+      "id": "m051-practice-move-20-mistake",
+      "kind": "manual",
+      "page": 51,
+      "text": "The most common mistake in Practice Move 20 is dropping the head."
+    },
+    {
+      "id": "m052-practice-move-21-setup",
+      "kind": "manual",
+      "page": 52,
+      "text": "Practice Move 21 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m052-practice-move-21-pace",
+      "kind": "manual",
+      "page": 52,
+      "text": "Practice Move 21 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m052-practice-move-21-easier",
+      "kind": "manual",
+      "page": 52,
+      "text": "To make Practice Move 21 easier, shorten the range."
+    },
+    {
+      "id": "m052-practice-move-21-mistake",
+      "kind": "manual",
+      "page": 52,
+      "text": "The most common mistake in Practice Move 21 is locking the knees."
+    },
+    {
+      "id": "m053-practice-move-22-setup",
+      "kind": "manual",
+      "page": 53,
+      "text": "Practice Move 22 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m053-practice-move-22-pace",
+      "kind": "manual",
+      "page": 53,
+      "text": "Practice Move 22 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m053-practice-move-22-easier",
+      "kind": "manual",
+      "page": 53,
+      "text": "To make Practice Move 22 easier, shorten the range."
+    },
+    {
+      "id": "m053-practice-move-22-mistake",
+      "kind": "manual",
+      "page": 53,
+      "text": "The most common mistake in Practice Move 22 is locking the knees."
+    },
+    {
+      "id": "m054-practice-move-23-setup",
+      "kind": "manual",
+      "page": 54,
+      "text": "Practice Move 23 starts with the hands on the back step and the feet on the low step."
+    },
+    {
+      "id": "m054-practice-move-23-pace",
+      "kind": "manual",
+      "page": 54,
+      "text": "Practice Move 23 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m054-practice-move-23-easier",
+      "kind": "manual",
+      "page": 54,
+      "text": "To make Practice Move 23 easier, use the green band."
+    },
+    {
+      "id": "m054-practice-move-23-mistake",
+      "kind": "manual",
+      "page": 54,
+      "text": "The most common mistake in Practice Move 23 is dropping the head."
+    },
+    {
+      "id": "m055-practice-move-24-setup",
+      "kind": "manual",
+      "page": 55,
+      "text": "Practice Move 24 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m055-practice-move-24-pace",
+      "kind": "manual",
+      "page": 55,
+      "text": "Practice Move 24 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m055-practice-move-24-easier",
+      "kind": "manual",
+      "page": 55,
+      "text": "To make Practice Move 24 easier, keep one knee down."
+    },
+    {
+      "id": "m055-practice-move-24-mistake",
+      "kind": "manual",
+      "page": 55,
+      "text": "The most common mistake in Practice Move 24 is locking the knees."
+    },
+    {
+      "id": "m056-practice-move-25-setup",
+      "kind": "manual",
+      "page": 56,
+      "text": "Practice Move 25 starts with the hands on the front rail and the feet on the low step."
+    },
+    {
+      "id": "m056-practice-move-25-pace",
+      "kind": "manual",
+      "page": 56,
+      "text": "Practice Move 25 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m056-practice-move-25-easier",
+      "kind": "manual",
+      "page": 56,
+      "text": "To make Practice Move 25 easier, keep one knee down."
+    },
+    {
+      "id": "m056-practice-move-25-mistake",
+      "kind": "manual",
+      "page": 56,
+      "text": "The most common mistake in Practice Move 25 is rushing the return."
+    },
+    {
+      "id": "m057-practice-move-26-setup",
+      "kind": "manual",
+      "page": 57,
+      "text": "Practice Move 26 starts with the hands on the front rail and the feet on the back step."
+    },
+    {
+      "id": "m057-practice-move-26-pace",
+      "kind": "manual",
+      "page": 57,
+      "text": "Practice Move 26 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m057-practice-move-26-easier",
+      "kind": "manual",
+      "page": 57,
+      "text": "To make Practice Move 26 easier, slow the count."
+    },
+    {
+      "id": "m057-practice-move-26-mistake",
+      "kind": "manual",
+      "page": 57,
+      "text": "The most common mistake in Practice Move 26 is dropping the head."
+    },
+    {
+      "id": "m058-practice-move-27-setup",
+      "kind": "manual",
+      "page": 58,
+      "text": "Practice Move 27 starts with the hands on the sliding deck and the feet on the back step."
+    },
+    {
+      "id": "m058-practice-move-27-pace",
+      "kind": "manual",
+      "page": 58,
+      "text": "Practice Move 27 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m058-practice-move-27-easier",
+      "kind": "manual",
+      "page": 58,
+      "text": "To make Practice Move 27 easier, slow the count."
+    },
+    {
+      "id": "m058-practice-move-27-mistake",
+      "kind": "manual",
+      "page": 58,
+      "text": "The most common mistake in Practice Move 27 is dropping the head."
+    },
+    {
+      "id": "m059-practice-move-28-setup",
+      "kind": "manual",
+      "page": 59,
+      "text": "Practice Move 28 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m059-practice-move-28-pace",
+      "kind": "manual",
+      "page": 59,
+      "text": "Practice Move 28 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m059-practice-move-28-easier",
+      "kind": "manual",
+      "page": 59,
+      "text": "To make Practice Move 28 easier, slow the count."
+    },
+    {
+      "id": "m059-practice-move-28-mistake",
+      "kind": "manual",
+      "page": 59,
+      "text": "The most common mistake in Practice Move 28 is dropping the head."
+    },
+    {
+      "id": "m031-practice-move-29-setup",
+      "kind": "manual",
+      "page": 31,
+      "text": "Practice Move 29 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m031-practice-move-29-pace",
+      "kind": "manual",
+      "page": 31,
+      "text": "Practice Move 29 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m031-practice-move-29-easier",
+      "kind": "manual",
+      "page": 31,
+      "text": "To make Practice Move 29 easier, use the green band."
+    },
+    {
+      "id": "m031-practice-move-29-mistake",
+      "kind": "manual",
+      "page": 31,
+      "text": "The most common mistake in Practice Move 29 is dropping the head."
+    },
+    {
+      "id": "m032-practice-move-30-setup",
+      "kind": "manual",
+      "page": 32,
+      "text": "Practice Move 30 starts with the hands on the front rail and the feet on the sliding deck."
+    },
+    {
+      "id": "m032-practice-move-30-pace",
+      "kind": "manual",
+      "page": 32,
+      "text": "Practice Move 30 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m032-practice-move-30-easier",
+      "kind": "manual",
+      "page": 32,
+      "text": "To make Practice Move 30 easier, slow the count."
+    },
+    {
+      "id": "m032-practice-move-30-mistake",
+      "kind": "manual",
+      "page": 32,
+      "text": "The most common mistake in Practice Move 30 is holding the breath."
+    },
+    {
+      "id": "m033-practice-move-31-setup",
+      "kind": "manual",
+      "page": 33,
+      "text": "Practice Move 31 starts with the hands on the front rail and the feet on the low step."
+    },
+    {
+      "id": "m033-practice-move-31-pace",
+      "kind": "manual",
+      "page": 33,
+      "text": "Practice Move 31 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m033-practice-move-31-easier",
+      "kind": "manual",
+      "page": 33,
+      "text": "To make Practice Move 31 easier, shorten the range."
+    },
+    {
+      "id": "m033-practice-move-31-mistake",
+      "kind": "manual",
+      "page": 33,
+      "text": "The most common mistake in Practice Move 31 is dropping the head."
+    },
+    {
+      "id": "m034-practice-move-32-setup",
+      "kind": "manual",
+      "page": 34,
+      "text": "Practice Move 32 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m034-practice-move-32-pace",
+      "kind": "manual",
+      "page": 34,
+      "text": "Practice Move 32 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m034-practice-move-32-easier",
+      "kind": "manual",
+      "page": 34,
+      "text": "To make Practice Move 32 easier, use the green band."
+    },
+    {
+      "id": "m034-practice-move-32-mistake",
+      "kind": "manual",
+      "page": 34,
+      "text": "The most common mistake in Practice Move 32 is rushing the return."
+    },
+    {
+      "id": "m035-practice-move-33-setup",
+      "kind": "manual",
+      "page": 35,
+      "text": "Practice Move 33 starts with the hands on the front rail and the feet on the back step."
+    },
+    {
+      "id": "m035-practice-move-33-pace",
+      "kind": "manual",
+      "page": 35,
+      "text": "Practice Move 33 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m035-practice-move-33-easier",
+      "kind": "manual",
+      "page": 35,
+      "text": "To make Practice Move 33 easier, use the green band."
+    },
+    {
+      "id": "m035-practice-move-33-mistake",
+      "kind": "manual",
+      "page": 35,
+      "text": "The most common mistake in Practice Move 33 is lifting the shoulders."
+    },
+    {
+      "id": "m036-practice-move-34-setup",
+      "kind": "manual",
+      "page": 36,
+      "text": "Practice Move 34 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m036-practice-move-34-pace",
+      "kind": "manual",
+      "page": 36,
+      "text": "Practice Move 34 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m036-practice-move-34-easier",
+      "kind": "manual",
+      "page": 36,
+      "text": "To make Practice Move 34 easier, hold the rail."
+    },
+    {
+      "id": "m036-practice-move-34-mistake",
+      "kind": "manual",
+      "page": 36,
+      "text": "The most common mistake in Practice Move 34 is lifting the shoulders."
+    },
+    {
+      "id": "m037-practice-move-35-setup",
+      "kind": "manual",
+      "page": 37,
+      "text": "Practice Move 35 starts with the hands on the back step and the feet on the low step."
+    },
+    {
+      "id": "m037-practice-move-35-pace",
+      "kind": "manual",
+      "page": 37,
+      "text": "Practice Move 35 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m037-practice-move-35-easier",
+      "kind": "manual",
+      "page": 37,
+      "text": "To make Practice Move 35 easier, keep one knee down."
+    },
+    {
+      "id": "m037-practice-move-35-mistake",
+      "kind": "manual",
+      "page": 37,
+      "text": "The most common mistake in Practice Move 35 is lifting the shoulders."
+    },
+    {
+      "id": "m038-practice-move-36-setup",
+      "kind": "manual",
+      "page": 38,
+      "text": "Practice Move 36 starts with the hands on the sliding deck and the feet on the back step."
+    },
+    {
+      "id": "m038-practice-move-36-pace",
+      "kind": "manual",
+      "page": 38,
+      "text": "Practice Move 36 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m038-practice-move-36-easier",
+      "kind": "manual",
+      "page": 38,
+      "text": "To make Practice Move 36 easier, keep one knee down."
+    },
+    {
+      "id": "m038-practice-move-36-mistake",
+      "kind": "manual",
+      "page": 38,
+      "text": "The most common mistake in Practice Move 36 is rushing the return."
+    },
+    {
+      "id": "m039-practice-move-37-setup",
+      "kind": "manual",
+      "page": 39,
+      "text": "Practice Move 37 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m039-practice-move-37-pace",
+      "kind": "manual",
+      "page": 39,
+      "text": "Practice Move 37 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m039-practice-move-37-easier",
+      "kind": "manual",
+      "page": 39,
+      "text": "To make Practice Move 37 easier, shorten the range."
+    },
+    {
+      "id": "m039-practice-move-37-mistake",
+      "kind": "manual",
+      "page": 39,
+      "text": "The most common mistake in Practice Move 37 is holding the breath."
+    },
+    {
+      "id": "m040-practice-move-38-setup",
+      "kind": "manual",
+      "page": 40,
+      "text": "Practice Move 38 starts with the hands on the front rail and the feet on the sliding deck."
+    },
+    {
+      "id": "m040-practice-move-38-pace",
+      "kind": "manual",
+      "page": 40,
+      "text": "Practice Move 38 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m040-practice-move-38-easier",
+      "kind": "manual",
+      "page": 40,
+      "text": "To make Practice Move 38 easier, slow the count."
+    },
+    {
+      "id": "m040-practice-move-38-mistake",
+      "kind": "manual",
+      "page": 40,
+      "text": "The most common mistake in Practice Move 38 is rushing the return."
+    },
+    {
+      "id": "m041-practice-move-39-setup",
+      "kind": "manual",
+      "page": 41,
+      "text": "Practice Move 39 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m041-practice-move-39-pace",
+      "kind": "manual",
+      "page": 41,
+      "text": "Practice Move 39 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m041-practice-move-39-easier",
+      "kind": "manual",
+      "page": 41,
+      "text": "To make Practice Move 39 easier, shorten the range."
+    },
+    {
+      "id": "m041-practice-move-39-mistake",
+      "kind": "manual",
+      "page": 41,
+      "text": "The most common mistake in Practice Move 39 is rushing the return."
+    },
+    {
+      "id": "m042-practice-move-40-setup",
+      "kind": "manual",
+      "page": 42,
+      "text": "Practice Move 40 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m042-practice-move-40-pace",
+      "kind": "manual",
+      "page": 42,
+      "text": "Practice Move 40 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m042-practice-move-40-easier",
+      "kind": "manual",
+      "page": 42,
+      "text": "To make Practice Move 40 easier, shorten the range."
+    },
+    {
+      "id": "m042-practice-move-40-mistake",
+      "kind": "manual",
+      "page": 42,
+      "text": "The most common mistake in Practice Move 40 is locking the knees."
+    },
+    {
+      "id": "m043-practice-move-41-setup",
+      "kind": "manual",
+      "page": 43,
+      "text": "Practice Move 41 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m043-practice-move-41-pace",
+      "kind": "manual",
+      "page": 43,
+      "text": "Practice Move 41 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m043-practice-move-41-easier",
+      "kind": "manual",
+      "page": 43,
+      "text": "To make Practice Move 41 easier, slow the count."
+    },
+    {
+      "id": "m043-practice-move-41-mistake",
+      "kind": "manual",
+      "page": 43,
+      "text": "The most common mistake in Practice Move 41 is lifting the shoulders."
+    },
+    {
+      "id": "m044-practice-move-42-setup",
+      "kind": "manual",
+      "page": 44,
+      "text": "Practice Move 42 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m044-practice-move-42-pace",
+      "kind": "manual",
+      "page": 44,
+      "text": "Practice Move 42 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m044-practice-move-42-easier",
+      "kind": "manual",
+      "page": 44,
+      "text": "To make Practice Move 42 easier, use the green band."
+    },
+    {
+      "id": "m044-practice-move-42-mistake",
+      "kind": "manual",
+      "page": 44,
+      "text": "The most common mistake in Practice Move 42 is lifting the shoulders."
+    },
+    {
+      "id": "m045-practice-move-43-setup",
+      "kind": "manual",
+      "page": 45,
+      "text": "Practice Move 43 starts with the hands on the sliding deck and the feet on the back step."
+    },
+    {
+      "id": "m045-practice-move-43-pace",
+      "kind": "manual",
+      "page": 45,
+      "text": "Practice Move 43 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m045-practice-move-43-easier",
+      "kind": "manual",
+      "page": 45,
+      "text": "To make Practice Move 43 easier, shorten the range."
+    },
+    {
+      "id": "m045-practice-move-43-mistake",
+      "kind": "manual",
+      "page": 45,
+      "text": "The most common mistake in Practice Move 43 is dropping the head."
+    },
+    {
+      "id": "m046-practice-move-44-setup",
+      "kind": "manual",
+      "page": 46,
+      "text": "Practice Move 44 starts with the hands on the sliding deck and the feet on the back step."
+    },
+    {
+      "id": "m046-practice-move-44-pace",
+      "kind": "manual",
+      "page": 46,
+      "text": "Practice Move 44 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m046-practice-move-44-easier",
+      "kind": "manual",
+      "page": 46,
+      "text": "To make Practice Move 44 easier, use the green band."
+    },
+    {
+      "id": "m046-practice-move-44-mistake",
+      "kind": "manual",
+      "page": 46,
+      "text": "The most common mistake in Practice Move 44 is rushing the return."
+    },
+    {
+      "id": "m047-practice-move-45-setup",
+      "kind": "manual",
+      "page": 47,
+      "text": "Practice Move 45 starts with the hands on the front rail and the feet on the sliding deck."
+    },
+    {
+      "id": "m047-practice-move-45-pace",
+      "kind": "manual",
+      "page": 47,
+      "text": "Practice Move 45 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m047-practice-move-45-easier",
+      "kind": "manual",
+      "page": 47,
+      "text": "To make Practice Move 45 easier, use the green band."
+    },
+    {
+      "id": "m047-practice-move-45-mistake",
+      "kind": "manual",
+      "page": 47,
+      "text": "The most common mistake in Practice Move 45 is dropping the head."
+    },
+    {
+      "id": "m048-practice-move-46-setup",
+      "kind": "manual",
+      "page": 48,
+      "text": "Practice Move 46 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m048-practice-move-46-pace",
+      "kind": "manual",
+      "page": 48,
+      "text": "Practice Move 46 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m048-practice-move-46-easier",
+      "kind": "manual",
+      "page": 48,
+      "text": "To make Practice Move 46 easier, shorten the range."
+    },
+    {
+      "id": "m048-practice-move-46-mistake",
+      "kind": "manual",
+      "page": 48,
+      "text": "The most common mistake in Practice Move 46 is holding the breath."
+    },
+    {
+      "id": "m049-practice-move-47-setup",
+      "kind": "manual",
+      "page": 49,
+      "text": "Practice Move 47 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m049-practice-move-47-pace",
+      "kind": "manual",
+      "page": 49,
+      "text": "Practice Move 47 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m049-practice-move-47-easier",
+      "kind": "manual",
+      "page": 49,
+      "text": "To make Practice Move 47 easier, hold the rail."
+    },
+    {
+      "id": "m049-practice-move-47-mistake",
+      "kind": "manual",
+      "page": 49,
+      "text": "The most common mistake in Practice Move 47 is rushing the return."
+    },
+    {
+      "id": "m050-practice-move-48-setup",
+      "kind": "manual",
+      "page": 50,
+      "text": "Practice Move 48 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m050-practice-move-48-pace",
+      "kind": "manual",
+      "page": 50,
+      "text": "Practice Move 48 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m050-practice-move-48-easier",
+      "kind": "manual",
+      "page": 50,
+      "text": "To make Practice Move 48 easier, use the green band."
+    },
+    {
+      "id": "m050-practice-move-48-mistake",
+      "kind": "manual",
+      "page": 50,
+      "text": "The most common mistake in Practice Move 48 is lifting the shoulders."
+    },
+    {
+      "id": "m051-practice-move-49-setup",
+      "kind": "manual",
+      "page": 51,
+      "text": "Practice Move 49 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m051-practice-move-49-pace",
+      "kind": "manual",
+      "page": 51,
+      "text": "Practice Move 49 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m051-practice-move-49-easier",
+      "kind": "manual",
+      "page": 51,
+      "text": "To make Practice Move 49 easier, slow the count."
+    },
+    {
+      "id": "m051-practice-move-49-mistake",
+      "kind": "manual",
+      "page": 51,
+      "text": "The most common mistake in Practice Move 49 is lifting the shoulders."
+    },
+    {
+      "id": "m052-practice-move-50-setup",
+      "kind": "manual",
+      "page": 52,
+      "text": "Practice Move 50 starts with the hands on the back step and the feet on the low step."
+    },
+    {
+      "id": "m052-practice-move-50-pace",
+      "kind": "manual",
+      "page": 52,
+      "text": "Practice Move 50 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m052-practice-move-50-easier",
+      "kind": "manual",
+      "page": 52,
+      "text": "To make Practice Move 50 easier, slow the count."
+    },
+    {
+      "id": "m052-practice-move-50-mistake",
+      "kind": "manual",
+      "page": 52,
+      "text": "The most common mistake in Practice Move 50 is lifting the shoulders."
+    },
+    {
+      "id": "m053-practice-move-51-setup",
+      "kind": "manual",
+      "page": 53,
+      "text": "Practice Move 51 starts with the hands on the front rail and the feet on the sliding deck."
+    },
+    {
+      "id": "m053-practice-move-51-pace",
+      "kind": "manual",
+      "page": 53,
+      "text": "Practice Move 51 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m053-practice-move-51-easier",
+      "kind": "manual",
+      "page": 53,
+      "text": "To make Practice Move 51 easier, slow the count."
+    },
+    {
+      "id": "m053-practice-move-51-mistake",
+      "kind": "manual",
+      "page": 53,
+      "text": "The most common mistake in Practice Move 51 is holding the breath."
+    },
+    {
+      "id": "m054-practice-move-52-setup",
+      "kind": "manual",
+      "page": 54,
+      "text": "Practice Move 52 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m054-practice-move-52-pace",
+      "kind": "manual",
+      "page": 54,
+      "text": "Practice Move 52 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m054-practice-move-52-easier",
+      "kind": "manual",
+      "page": 54,
+      "text": "To make Practice Move 52 easier, shorten the range."
+    },
+    {
+      "id": "m054-practice-move-52-mistake",
+      "kind": "manual",
+      "page": 54,
+      "text": "The most common mistake in Practice Move 52 is rushing the return."
+    },
+    {
+      "id": "m055-practice-move-53-setup",
+      "kind": "manual",
+      "page": 55,
+      "text": "Practice Move 53 starts with the hands on the sliding deck and the feet on the back step."
+    },
+    {
+      "id": "m055-practice-move-53-pace",
+      "kind": "manual",
+      "page": 55,
+      "text": "Practice Move 53 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m055-practice-move-53-easier",
+      "kind": "manual",
+      "page": 55,
+      "text": "To make Practice Move 53 easier, slow the count."
+    },
+    {
+      "id": "m055-practice-move-53-mistake",
+      "kind": "manual",
+      "page": 55,
+      "text": "The most common mistake in Practice Move 53 is lifting the shoulders."
+    },
+    {
+      "id": "m056-practice-move-54-setup",
+      "kind": "manual",
+      "page": 56,
+      "text": "Practice Move 54 starts with the hands on the sliding deck and the feet on the back step."
+    },
+    {
+      "id": "m056-practice-move-54-pace",
+      "kind": "manual",
+      "page": 56,
+      "text": "Practice Move 54 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m056-practice-move-54-easier",
+      "kind": "manual",
+      "page": 56,
+      "text": "To make Practice Move 54 easier, use the green band."
+    },
+    {
+      "id": "m056-practice-move-54-mistake",
+      "kind": "manual",
+      "page": 56,
+      "text": "The most common mistake in Practice Move 54 is rushing the return."
+    },
+    {
+      "id": "m057-practice-move-55-setup",
+      "kind": "manual",
+      "page": 57,
+      "text": "Practice Move 55 starts with the hands on the front rail and the feet on the sliding deck."
+    },
+    {
+      "id": "m057-practice-move-55-pace",
+      "kind": "manual",
+      "page": 57,
+      "text": "Practice Move 55 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m057-practice-move-55-easier",
+      "kind": "manual",
+      "page": 57,
+      "text": "To make Practice Move 55 easier, keep one knee down."
+    },
+    {
+      "id": "m057-practice-move-55-mistake",
+      "kind": "manual",
+      "page": 57,
+      "text": "The most common mistake in Practice Move 55 is holding the breath."
+    },
+    {
+      "id": "m058-practice-move-56-setup",
+      "kind": "manual",
+      "page": 58,
+      "text": "Practice Move 56 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m058-practice-move-56-pace",
+      "kind": "manual",
+      "page": 58,
+      "text": "Practice Move 56 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m058-practice-move-56-easier",
+      "kind": "manual",
+      "page": 58,
+      "text": "To make Practice Move 56 easier, hold the rail."
+    },
+    {
+      "id": "m058-practice-move-56-mistake",
+      "kind": "manual",
+      "page": 58,
+      "text": "The most common mistake in Practice Move 56 is lifting the shoulders."
+    },
+    {
+      "id": "m059-practice-move-57-setup",
+      "kind": "manual",
+      "page": 59,
+      "text": "Practice Move 57 starts with the hands on the front rail and the feet on the back step."
+    },
+    {
+      "id": "m059-practice-move-57-pace",
+      "kind": "manual",
+      "page": 59,
+      "text": "Practice Move 57 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m059-practice-move-57-easier",
+      "kind": "manual",
+      "page": 59,
+      "text": "To make Practice Move 57 easier, shorten the range."
+    },
+    {
+      "id": "m059-practice-move-57-mistake",
+      "kind": "manual",
+      "page": 59,
+      "text": "The most common mistake in Practice Move 57 is rushing the return."
+    },
+    {
+      "id": "m031-practice-move-58-setup",
+      "kind": "manual",
+      "page": 31,
+      "text": "Practice Move 58 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m031-practice-move-58-pace",
+      "kind": "manual",
+      "page": 31,
+      "text": "Practice Move 58 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m031-practice-move-58-easier",
+      "kind": "manual",
+      "page": 31,
+      "text": "To make Practice Move 58 easier, keep one knee down."
+    },
+    {
+      "id": "m031-practice-move-58-mistake",
+      "kind": "manual",
+      "page": 31,
+      "text": "The most common mistake in Practice Move 58 is holding the breath."
+    },
+    {
+      "id": "m032-practice-move-59-setup",
+      "kind": "manual",
+      "page": 32,
+      "text": "Practice Move 59 starts with the hands on the sliding deck and the feet on the low step."
+    },
+    {
+      "id": "m032-practice-move-59-pace",
+      "kind": "manual",
+      "page": 32,
+      "text": "Practice Move 59 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m032-practice-move-59-easier",
+      "kind": "manual",
+      "page": 32,
+      "text": "To make Practice Move 59 easier, shorten the range."
+    },
+    {
+      "id": "m032-practice-move-59-mistake",
+      "kind": "manual",
+      "page": 32,
+      "text": "The most common mistake in Practice Move 59 is dropping the head."
+    },
+    {
+      "id": "m033-practice-move-60-setup",
+      "kind": "manual",
+      "page": 33,
+      "text": "Practice Move 60 starts with the hands on the sliding deck and the feet on the back step."
+    },
+    {
+      "id": "m033-practice-move-60-pace",
+      "kind": "manual",
+      "page": 33,
+      "text": "Practice Move 60 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m033-practice-move-60-easier",
+      "kind": "manual",
+      "page": 33,
+      "text": "To make Practice Move 60 easier, slow the count."
+    },
+    {
+      "id": "m033-practice-move-60-mistake",
+      "kind": "manual",
+      "page": 33,
+      "text": "The most common mistake in Practice Move 60 is holding the breath."
+    },
+    {
+      "id": "m034-practice-move-61-setup",
+      "kind": "manual",
+      "page": 34,
+      "text": "Practice Move 61 starts with the hands on the front rail and the feet on the sliding deck."
+    },
+    {
+      "id": "m034-practice-move-61-pace",
+      "kind": "manual",
+      "page": 34,
+      "text": "Practice Move 61 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m034-practice-move-61-easier",
+      "kind": "manual",
+      "page": 34,
+      "text": "To make Practice Move 61 easier, hold the rail."
+    },
+    {
+      "id": "m034-practice-move-61-mistake",
+      "kind": "manual",
+      "page": 34,
+      "text": "The most common mistake in Practice Move 61 is dropping the head."
+    },
+    {
+      "id": "m035-practice-move-62-setup",
+      "kind": "manual",
+      "page": 35,
+      "text": "Practice Move 62 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m035-practice-move-62-pace",
+      "kind": "manual",
+      "page": 35,
+      "text": "Practice Move 62 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m035-practice-move-62-easier",
+      "kind": "manual",
+      "page": 35,
+      "text": "To make Practice Move 62 easier, hold the rail."
+    },
+    {
+      "id": "m035-practice-move-62-mistake",
+      "kind": "manual",
+      "page": 35,
+      "text": "The most common mistake in Practice Move 62 is dropping the head."
+    },
+    {
+      "id": "m036-practice-move-63-setup",
+      "kind": "manual",
+      "page": 36,
+      "text": "Practice Move 63 starts with the hands on the back step and the feet on the back step."
+    },
+    {
+      "id": "m036-practice-move-63-pace",
+      "kind": "manual",
+      "page": 36,
+      "text": "Practice Move 63 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m036-practice-move-63-easier",
+      "kind": "manual",
+      "page": 36,
+      "text": "To make Practice Move 63 easier, hold the rail."
+    },
+    {
+      "id": "m036-practice-move-63-mistake",
+      "kind": "manual",
+      "page": 36,
+      "text": "The most common mistake in Practice Move 63 is lifting the shoulders."
+    },
+    {
+      "id": "m037-practice-move-64-setup",
+      "kind": "manual",
+      "page": 37,
+      "text": "Practice Move 64 starts with the hands on the front rail and the feet on the sliding deck."
+    },
+    {
+      "id": "m037-practice-move-64-pace",
+      "kind": "manual",
+      "page": 37,
+      "text": "Practice Move 64 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m037-practice-move-64-easier",
+      "kind": "manual",
+      "page": 37,
+      "text": "To make Practice Move 64 easier, shorten the range."
+    },
+    {
+      "id": "m037-practice-move-64-mistake",
+      "kind": "manual",
+      "page": 37,
+      "text": "The most common mistake in Practice Move 64 is lifting the shoulders."
+    },
+    {
+      "id": "m038-practice-move-65-setup",
+      "kind": "manual",
+      "page": 38,
+      "text": "Practice Move 65 starts with the hands on the back step and the feet on the sliding deck."
+    },
+    {
+      "id": "m038-practice-move-65-pace",
+      "kind": "manual",
+      "page": 38,
+      "text": "Practice Move 65 runs at 2 counts out and 4 counts back."
+    },
+    {
+      "id": "m038-practice-move-65-easier",
+      "kind": "manual",
+      "page": 38,
+      "text": "To make Practice Move 65 easier, slow the count."
+    },
+    {
+      "id": "m038-practice-move-65-mistake",
+      "kind": "manual",
+      "page": 38,
+      "text": "The most common mistake in Practice Move 65 is holding the breath."
+    },
+    {
+      "id": "m039-practice-move-66-setup",
+      "kind": "manual",
+      "page": 39,
+      "text": "Practice Move 66 starts with the hands on the front rail and the feet on the back step."
+    },
+    {
+      "id": "m039-practice-move-66-pace",
+      "kind": "manual",
+      "page": 39,
+      "text": "Practice Move 66 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m039-practice-move-66-easier",
+      "kind": "manual",
+      "page": 39,
+      "text": "To make Practice Move 66 easier, use the green band."
+    },
+    {
+      "id": "m039-practice-move-66-mistake",
+      "kind": "manual",
+      "page": 39,
+      "text": "The most common mistake in Practice Move 66 is lifting the shoulders."
+    },
+    {
+      "id": "m040-practice-move-67-setup",
+      "kind": "manual",
+      "page": 40,
+      "text": "Practice Move 67 starts with the hands on the front rail and the feet on the low step."
+    },
+    {
+      "id": "m040-practice-move-67-pace",
+      "kind": "manual",
+      "page": 40,
+      "text": "Practice Move 67 runs at 4 counts out and 4 counts back."
+    },
+    {
+      "id": "m040-practice-move-67-easier",
+      "kind": "manual",
+      "page": 40,
+      "text": "To make Practice Move 67 easier, use the green band."
+    },
+    {
+      "id": "m040-practice-move-67-mistake",
+      "kind": "manual",
+      "page": 40,
+      "text": "The most common mistake in Practice Move 67 is lifting the shoulders."
+    },
+    {
+      "id": "m041-practice-move-68-setup",
+      "kind": "manual",
+      "page": 41,
+      "text": "Practice Move 68 starts with the hands on the sliding deck and the feet on the sliding deck."
+    },
+    {
+      "id": "m041-practice-move-68-pace",
+      "kind": "manual",
+      "page": 41,
+      "text": "Practice Move 68 runs at 2 counts out and 2 counts back."
+    },
+    {
+      "id": "m041-practice-move-68-easier",
+      "kind": "manual",
+      "page": 41,
+      "text": "To make Practice Move 68 easier, use the green band."
+    },
+    {
+      "id": "m041-practice-move-68-mistake",
+      "kind": "manual",
+      "page": 41,
+      "text": "The most common mistake in Practice Move 68 is dropping the head."
+    },
+    {
+      "id": "m042-practice-move-69-setup",
+      "kind": "manual",
+      "page": 42,
+      "text": "Practice Move 69 starts with the hands on the back step and the feet on the low step."
+    },
+    {
+      "id": "m042-practice-move-69-pace",
+      "kind": "manual",
+      "page": 42,
+      "text": "Practice Move 69 runs at 4 counts out and 2 counts back."
+    },
+    {
+      "id": "m042-practice-move-69-easier",
+      "kind": "manual",
+      "page": 42,
+      "text": "To make Practice Move 69 easier, keep one knee down."
+    },
+    {
+      "id": "m042-practice-move-69-mistake",
+      "kind": "manual",
+      "page": 42,
+      "text": "The most common mistake in Practice Move 69 is lifting the shoulders."
+    },
+    {
+      "id": "m043-practice-move-70-setup",
+      "kind": "manual",
+      "page": 43,
+      "text": "Practice Move 70 starts with the hands on the front rail and the feet on the low step."
+    },
+    {
+      "id": "m043-practice-move-70-pace",
+      "kind": "manual",
+      "page": 43,
+      "text": "Practice Move 70 runs at 3 counts out and 3 counts back."
+    },
+    {
+      "id": "m043-practice-move-70-easier",
+      "kind": "manual",
+      "page": 43,
+      "text": "To make Practice Move 70 easier, hold the rail."
+    },
+    {
+      "id": "m043-practice-move-70-mistake",
+      "kind": "manual",
+      "page": 43,
+      "text": "The most common mistake in Practice Move 70 is lifting the shoulders."
+    }
+  ]
+}

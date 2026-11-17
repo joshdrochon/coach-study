@@ -1,0 +1,8 @@
+{
+  "runs": [
+    [
+      "m012-sample-move-a-setup",
+      "m013-sample-move-a-pace"
+    ]
+  ]
+}

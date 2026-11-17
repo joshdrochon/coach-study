@@ -1,0 +1,9 @@
+.skeleton {
+  border-radius: var(--radius-xs);
+  background: var(--color-surface-2);
+  user-select: none;
+}
+
+.hidden {
+  visibility: hidden;
+}

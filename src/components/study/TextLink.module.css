@@ -1,0 +1,28 @@
+.link {
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  min-height: var(--size-control-s);
+  padding: 0 var(--space-4);
+  border: 0;
+  border-radius: var(--radius);
+  background: transparent;
+  color: var(--color-accent-text);
+  text-decoration: underline;
+  text-underline-offset: var(--space-4);
+  cursor: pointer;
+}
+
+.start {
+  margin-left: calc(var(--space-4) * -1);
+}
+
+.end {
+  margin-right: calc(var(--space-4) * -1);
+}
+
+@media (hover: hover) {
+  .link:hover {
+    color: var(--color-accent-text-strong);
+  }
+}

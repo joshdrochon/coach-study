@@ -1,0 +1,582 @@
+{
+  "version": 1,
+  "source": "Sample guide (invented)",
+  "sentences": [
+    {
+      "id": "s01",
+      "page": 3,
+      "category": "Sample",
+      "text": "Sentence 1: say front rail clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "front rail",
+          "accept": [
+            "front rail"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "page": 4,
+      "category": "Sample",
+      "text": "Sentence 2: say sliding deck clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "sliding deck",
+          "accept": [
+            "sliding deck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "page": 5,
+      "category": "Sample",
+      "text": "Sentence 3: say back step clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "back step",
+          "accept": [
+            "back step"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "page": 6,
+      "category": "Sample",
+      "text": "Sentence 4: say tempo clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "tempo",
+          "accept": [
+            "tempo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "page": 7,
+      "category": "Sample",
+      "text": "Sentence 5: say range clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "range",
+          "accept": [
+            "range"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "page": 8,
+      "category": "Sample",
+      "text": "Sentence 6: say Sample Move A clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "Sample Move A",
+          "accept": [
+            "sample move a",
+            "sample move eh"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "page": 9,
+      "category": "Sample",
+      "text": "Sentence 7: say Sample Move B clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "Sample Move B",
+          "accept": [
+            "sample move b",
+            "sample move be"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "page": 10,
+      "category": "Sample",
+      "text": "Sentence 8: say cool-down clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "cool-down",
+          "accept": [
+            "cool down",
+            "cooldown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "page": 11,
+      "category": "Sample",
+      "text": "Sentence 9: say warm-up clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "warm-up",
+          "accept": [
+            "warm up",
+            "warmup"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "page": 12,
+      "category": "Sample",
+      "text": "Sentence 10: say green band clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "green band",
+          "accept": [
+            "green band"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "page": 13,
+      "category": "Sample",
+      "text": "Sentence 11: say front rail clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "front rail",
+          "accept": [
+            "front rail"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "page": 14,
+      "category": "Sample",
+      "text": "Sentence 12: say sliding deck clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "sliding deck",
+          "accept": [
+            "sliding deck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "page": 15,
+      "category": "Sample",
+      "text": "Sentence 13: say back step clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "back step",
+          "accept": [
+            "back step"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "page": 16,
+      "category": "Sample",
+      "text": "Sentence 14: say tempo clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "tempo",
+          "accept": [
+            "tempo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "page": 17,
+      "category": "Sample",
+      "text": "Sentence 15: say range clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "range",
+          "accept": [
+            "range"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "page": 18,
+      "category": "Sample",
+      "text": "Sentence 16: say Sample Move A clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "Sample Move A",
+          "accept": [
+            "sample move a",
+            "sample move eh"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "page": 19,
+      "category": "Sample",
+      "text": "Sentence 17: say Sample Move B clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "Sample Move B",
+          "accept": [
+            "sample move b",
+            "sample move be"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "page": 20,
+      "category": "Sample",
+      "text": "Sentence 18: say cool-down clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "cool-down",
+          "accept": [
+            "cool down",
+            "cooldown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s19",
+      "page": 21,
+      "category": "Sample",
+      "text": "Sentence 19: say warm-up clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "warm-up",
+          "accept": [
+            "warm up",
+            "warmup"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s20",
+      "page": 22,
+      "category": "Sample",
+      "text": "Sentence 20: say green band clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "green band",
+          "accept": [
+            "green band"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s21",
+      "page": 23,
+      "category": "Sample",
+      "text": "Sentence 21: say front rail clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "front rail",
+          "accept": [
+            "front rail"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s22",
+      "page": 24,
+      "category": "Sample",
+      "text": "Sentence 22: say sliding deck clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "sliding deck",
+          "accept": [
+            "sliding deck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s23",
+      "page": 25,
+      "category": "Sample",
+      "text": "Sentence 23: say back step clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "back step",
+          "accept": [
+            "back step"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s24",
+      "page": 26,
+      "category": "Sample",
+      "text": "Sentence 24: say tempo clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "tempo",
+          "accept": [
+            "tempo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s25",
+      "page": 27,
+      "category": "Sample",
+      "text": "Sentence 25: say range clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "range",
+          "accept": [
+            "range"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s26",
+      "page": 28,
+      "category": "Sample",
+      "text": "Sentence 26: say Sample Move A clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "Sample Move A",
+          "accept": [
+            "sample move a",
+            "sample move eh"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "page": 29,
+      "category": "Sample",
+      "text": "Sentence 27: say Sample Move B clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "Sample Move B",
+          "accept": [
+            "sample move b",
+            "sample move be"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s28",
+      "page": 30,
+      "category": "Sample",
+      "text": "Sentence 28: say cool-down clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "cool-down",
+          "accept": [
+            "cool down",
+            "cooldown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s29",
+      "page": 3,
+      "category": "Sample",
+      "text": "Sentence 29: say warm-up clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "warm-up",
+          "accept": [
+            "warm up",
+            "warmup"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s30",
+      "page": 4,
+      "category": "Sample",
+      "text": "Sentence 30: say green band clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "green band",
+          "accept": [
+            "green band"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s31",
+      "page": 5,
+      "category": "Sample",
+      "text": "Sentence 31: say front rail clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "front rail",
+          "accept": [
+            "front rail"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s32",
+      "page": 6,
+      "category": "Sample",
+      "text": "Sentence 32: say sliding deck clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "sliding deck",
+          "accept": [
+            "sliding deck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s33",
+      "page": 7,
+      "category": "Sample",
+      "text": "Sentence 33: say back step clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "back step",
+          "accept": [
+            "back step"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s34",
+      "page": 8,
+      "category": "Sample",
+      "text": "Sentence 34: say tempo clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "tempo",
+          "accept": [
+            "tempo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s35",
+      "page": 9,
+      "category": "Sample",
+      "text": "Sentence 35: say range clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "range",
+          "accept": [
+            "range"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s36",
+      "page": 10,
+      "category": "Sample",
+      "text": "Sentence 36: say Sample Move A clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "Sample Move A",
+          "accept": [
+            "sample move a",
+            "sample move eh"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s37",
+      "page": 11,
+      "category": "Sample",
+      "text": "Sentence 37: say Sample Move B clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "Sample Move B",
+          "accept": [
+            "sample move b",
+            "sample move be"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s38",
+      "page": 12,
+      "category": "Sample",
+      "text": "Sentence 38: say cool-down clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "cool-down",
+          "accept": [
+            "cool down",
+            "cooldown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s39",
+      "page": 13,
+      "category": "Sample",
+      "text": "Sentence 39: say warm-up clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "warm-up",
+          "accept": [
+            "warm up",
+            "warmup"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s40",
+      "page": 14,
+      "category": "Sample",
+      "text": "Sentence 40: say green band clearly and keep the pace even.",
+      "keyTerms": [
+        {
+          "term": "green band",
+          "accept": [
+            "green band"
+          ]
+        }
+      ]
+    }
+  ]
+}

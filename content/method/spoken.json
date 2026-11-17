@@ -1,0 +1,9 @@
+{
+  "acronyms": [
+    { "letters": "ETA", "say": "E-T-A", "dotted": true },
+    { "letters": "HQ", "say": "headquarters", "dotted": true },
+    { "letters": "BPM", "say": "B-P-M" },
+    { "letters": "PC", "say": "P-C", "before": "\\s+monitors?\\b" },
+    { "letters": "TV", "say": "T-V", "before": "\\s+room\\b" }
+  ]
+}

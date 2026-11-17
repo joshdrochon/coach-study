@@ -1,0 +1,43 @@
+.tone-text {
+  color: var(--color-text);
+}
+.tone-text-2 {
+  color: var(--color-text-2);
+}
+.tone-text-muted {
+  color: var(--color-text-muted);
+}
+.tone-text-subtle {
+  color: var(--color-text-subtle);
+}
+.tone-on-accent {
+  color: var(--color-on-accent);
+}
+.tone-accent-text {
+  color: var(--color-accent-text);
+}
+.tone-accent-text-strong {
+  color: var(--color-accent-text-strong);
+}
+.tone-warn-text {
+  color: var(--color-warn-text);
+}
+.tone-warn-text-muted {
+  color: var(--color-warn-text-muted);
+}
+.tone-inherit {
+  color: inherit;
+}
+
+.balance {
+  text-wrap: balance;
+}
+
+.keepWhole {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.nowrap {
+  white-space: nowrap;
+}

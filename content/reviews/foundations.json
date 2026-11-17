@@ -1,0 +1,17 @@
+{
+  "category": "Basics",
+  "reviews": [
+    {
+      "itemId": "session-phases",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    },
+    {
+      "itemId": "session-feel",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    }
+  ]
+}

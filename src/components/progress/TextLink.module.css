@@ -1,0 +1,28 @@
+.link {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--size-control-s);
+  padding: 0 var(--space-4);
+  color: var(--color-accent-text);
+  text-decoration: underline;
+  text-underline-offset: var(--space-4);
+  cursor: pointer;
+}
+
+@media (hover: hover) {
+  .link:hover {
+    color: var(--color-accent-text-strong);
+  }
+}
+
+.link:focus-within {
+  outline: var(--border-selected) solid var(--color-accent-text);
+  outline-offset: var(--space-4);
+}
+
+.link:has(input:disabled) {
+  cursor: default;
+  color: var(--color-text-subtle);
+}

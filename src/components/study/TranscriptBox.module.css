@@ -1,0 +1,50 @@
+.box {
+  width: 100%;
+  max-width: 55rem;
+  height: 7.5rem;
+  align-self: center;
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+  padding: var(--space-24);
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: var(--border-hairline) solid var(--color-border);
+  background: var(--color-surface);
+  text-align: left;
+}
+
+@media (max-width: 1179px) {
+  .box {
+    max-width: 52rem;
+  }
+}
+
+.withMic {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--space-16);
+}
+
+.words {
+  flex: 1;
+  min-width: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.twoLines {
+  height: 10rem;
+}
+
+.viewport {
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}

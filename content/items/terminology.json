@@ -1,0 +1,33 @@
+{
+  "category": "Glossary",
+  "items": [
+    {
+      "id": "term-tempo",
+      "category": "Glossary",
+      "type": "recall",
+      "prompt": "What does tempo mean?",
+      "answer": "How many counts each part of a move takes",
+      "explanation": "Tempo is about counts, not about how hard the move is.",
+      "citations": [
+        {
+          "passageId": "m020-term-tempo",
+          "quote": "Tempo means how many counts each part of a move takes."
+        }
+      ]
+    },
+    {
+      "id": "term-range",
+      "category": "Glossary",
+      "type": "recall",
+      "prompt": "What does range mean?",
+      "answer": "How far the body travels in one move",
+      "explanation": "Range is distance, not speed.",
+      "citations": [
+        {
+          "passageId": "m021-term-range",
+          "quote": "Range means how far the body travels in one move."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "comment": "Sound effects. Made by scripts/sound/synth.ts (pnpm sound:synth): musical tones rendered in code. Each entry records the file, its sha256, how it was made and its measured level. file null means not made yet; enabled false turns one sound off. Levels are active RMS in dBFS relative to the voice nominal level (voice.levelDb).",
+  "voice": {
+    "levelDb": -20,
+    "measured": false,
+    "note": "Nominal active RMS of the app voice, not measured here."
+  },
+  "limits": {
+    "guardMs": 200,
+    "startMs": 300,
+    "stuckMs": 250,
+    "peakDb": -3,
+    "onsetMs": 10,
+    "clickDb": -6,
+    "fadeMs": 15,
+    "padMs": 10,
+    "toleranceDb": 1.5
+  },
+  "sounds": [
+    {
+      "id": "listen-on",
+      "moment": "Your turn: the app starts listening",
+      "file": "listen-on.6755f39a.mp3",
+      "sha256": "6755f39ab5c28cd528777bed073d9753ec94d049054ad1dec048c10c69eb5ff6",
+      "enabled": false,
+      "lengthMs": 150,
+      "lengthRangeMs": [
+        100,
+        180
+      ],
+      "relativeDb": -10,
+      "prompt": "One-shot UI sound: soft rising two-note synth pluck, clean and dry, modern, gentle attack, very short, no reverb, no background noise",
+      "durationSeconds": 0.5,
+      "promptInfluence": 0.7,
+      "made": {
+        "model": "synth.ts",
+        "format": "mp3_44100_128",
+        "candidate": 1,
+        "of": 1,
+        "naturalMs": 147.5,
+        "gainDb": -20.59,
+        "on": "2026-08-20",
+        "variant": "A",
+        "recipe": "Variant A, soft marimba: G4 then C5: a rising fourth, 60 ms apart, dry; fades out by 150 ms"
+      },
+      "measured": {
+        "lengthMs": 142.3,
+        "levelDb": -30,
+        "peakDb": -19.98,
+        "onsetMs": 0.57,
+        "clickDb": -19.93,
+        "lufs": null,
+        "truePeakDb": -20
+      },
+      "approved": {
+        "by": "the admin",
+        "on": "2026-08-19"
+      }
+    },
+    {
+      "id": "listen-off",
+      "moment": "Heard you: the app stops listening",
+      "file": "listen-off.a111477b.mp3",
+      "sha256": "a111477b2392787d138621d769b9228c95ca50a4bfe27296989f8e7e4fa5bdae",
+      "enabled": false,
+      "lengthMs": 130,
+      "lengthRangeMs": [
+        100,
+        180
+      ],
+      "relativeDb": -10,
+      "prompt": "One-shot UI sound: soft falling two-note synth pluck, clean and dry, modern, gentle attack, very short, no reverb, no background noise",
+      "durationSeconds": 0.5,
+      "promptInfluence": 0.7,
+      "made": {
+        "model": "synth.ts",
+        "format": "mp3_44100_128",
+        "candidate": 1,
+        "of": 1,
+        "naturalMs": 129.6,
+        "gainDb": -20.87,
+        "on": "2026-08-20",
+        "variant": "A",
+        "recipe": "Variant A, soft marimba: C5 then G4: the same fourth, falling, dry; fades out by 132 ms"
+      },
+      "measured": {
+        "lengthMs": 125.5,
+        "levelDb": -30,
+        "peakDb": -21.58,
+        "onsetMs": 0.5,
+        "clickDb": -20.11,
+        "lufs": null,
+        "truePeakDb": -21.6
+      },
+      "approved": {
+        "by": "the admin",
+        "on": "2026-08-19"
+      }
+    },
+    {
+      "id": "right",
+      "moment": "A right answer, before the result is spoken",
+      "file": "right.df94e14d.mp3",
+      "sha256": "df94e14de05522cc031785ff972df97abd58b067c33026b9219aaa3b7e50b455",
+      "enabled": true,
+      "lengthMs": 300,
+      "lengthRangeMs": [
+        200,
+        350
+      ],
+      "relativeDb": -8,
+      "prompt": "One-shot UI success sound: bright warm two-note rising chime, electronic, clean and dry, short, no reverb tail, no background noise",
+      "durationSeconds": 0.5,
+      "promptInfluence": 0.7,
+      "made": {
+        "model": "synth.ts",
+        "format": "mp3_44100_128",
+        "candidate": 1,
+        "of": 1,
+        "naturalMs": 295,
+        "gainDb": -18.68,
+        "on": "2026-08-20",
+        "variant": "A",
+        "recipe": "Variant A, soft marimba: C6 then E6: a rising major third, 80 ms apart, a small room; fades out by 300 ms"
+      },
+      "measured": {
+        "lengthMs": 284.8,
+        "levelDb": -28,
+        "peakDb": -16.86,
+        "onsetMs": 0.61,
+        "clickDb": -28.69,
+        "lufs": null,
+        "truePeakDb": -16.8
+      },
+      "approved": {
+        "by": "the admin",
+        "on": "2026-08-19"
+      }
+    },
+    {
+      "id": "results",
+      "moment": "Mic practice results are in, before the self-review",
+      "file": "results.eb39fbc5.mp3",
+      "sha256": "eb39fbc5dfe1d1496d2456b7ae1c5cc30bbf8a2b536b8cb94c1871c20d6a0250",
+      "enabled": true,
+      "lengthMs": 400,
+      "lengthRangeMs": [
+        250,
+        450
+      ],
+      "relativeDb": -8,
+      "prompt": "One-shot UI sound: short bright synth swell rising into a clean chord, modern electronic, upbeat, dry, no background noise",
+      "durationSeconds": 0.5,
+      "promptInfluence": 0.7,
+      "made": {
+        "model": "synth.ts",
+        "format": "mp3_44100_128",
+        "candidate": 1,
+        "of": 1,
+        "naturalMs": 394.6,
+        "gainDb": -19.26,
+        "on": "2026-08-20",
+        "variant": "A",
+        "recipe": "Variant A, soft marimba: E5, G5, C6: a rising three-note phrase, 90 ms apart, a small room; fades out by 400 ms"
+      },
+      "measured": {
+        "lengthMs": 384.4,
+        "levelDb": -28,
+        "peakDb": -17.52,
+        "onsetMs": 0.91,
+        "clickDb": -29.3,
+        "lufs": -28.4,
+        "truePeakDb": -17.5
+      },
+      "approved": {
+        "by": "the admin",
+        "on": "2026-08-19"
+      }
+    },
+    {
+      "id": "break",
+      "moment": "Take five, before it is spoken",
+      "file": "break.5294a20a.mp3",
+      "sha256": "5294a20ad3ce473663cdf1cdecd8caaeab6a37ed485486b2b18756b07cdd3072",
+      "enabled": true,
+      "lengthMs": 500,
+      "lengthRangeMs": [
+        300,
+        700
+      ],
+      "relativeDb": -8,
+      "prompt": "One-shot UI sound: calm two-note descending soft bell, warm synth, gentle, relaxed, clean, short reverb, no background noise",
+      "durationSeconds": 1,
+      "promptInfluence": 0.7,
+      "made": {
+        "model": "synth.ts",
+        "format": "mp3_44100_128",
+        "candidate": 1,
+        "of": 1,
+        "naturalMs": 513.5,
+        "gainDb": -20.15,
+        "on": "2026-08-20",
+        "variant": "A",
+        "recipe": "Variant A, soft marimba: E5 down to C5 over a soft C4: a calm falling third, a small room; fades out by 520 ms"
+      },
+      "measured": {
+        "lengthMs": 498.6,
+        "levelDb": -28,
+        "peakDb": -16.25,
+        "onsetMs": 0.91,
+        "clickDb": -30.65,
+        "lufs": -28.3,
+        "truePeakDb": -16.2
+      },
+      "approved": {
+        "by": "the admin",
+        "on": "2026-08-19"
+      }
+    },
+    {
+      "id": "done",
+      "moment": "Done for today, before it is spoken",
+      "file": "done.615286f3.mp3",
+      "sha256": "615286f3ddc27059c1a280b298aafd222b23cb2940d3afb298c00b4607ac2f69",
+      "enabled": true,
+      "lengthMs": 1200,
+      "lengthRangeMs": [
+        800,
+        1500
+      ],
+      "relativeDb": -6,
+      "prompt": "One-shot UI completion sound: warm three-note ascending synth arpeggio resolving on a major chord, modern electronic, satisfying, soft, clean ending, no background noise",
+      "durationSeconds": 1.5,
+      "promptInfluence": 0.7,
+      "made": {
+        "model": "synth.ts",
+        "format": "mp3_44100_128",
+        "candidate": 1,
+        "of": 1,
+        "naturalMs": 1184,
+        "gainDb": -19.41,
+        "on": "2026-08-20",
+        "variant": "A",
+        "recipe": "Variant A, soft marimba: G4 and D5, then a C major chord (C5 E5 G5 C6) rolled in 25 ms steps: it resolves home, a small room; fades out by 1200 ms"
+      },
+      "measured": {
+        "lengthMs": 1160.2,
+        "levelDb": -26,
+        "peakDb": -11.17,
+        "onsetMs": 0.48,
+        "clickDb": -37.35,
+        "lufs": -25.8,
+        "truePeakDb": -11.2
+      },
+      "approved": {
+        "by": "the admin",
+        "on": "2026-08-19"
+      }
+    },
+    {
+      "id": "promoted",
+      "moment": "The learner set a higher title: the app celebrates it",
+      "file": "promoted.97a6fa64.mp3",
+      "sha256": "97a6fa6402318391898b56dc9a047e72e2fbe9ce975efcda72e4151be30daf44",
+      "enabled": true,
+      "lengthMs": 1600,
+      "lengthRangeMs": [
+        1000,
+        2000
+      ],
+      "relativeDb": -6,
+      "prompt": "One-shot celebration sound: uplifting modern electronic flourish, rising synth arpeggio with a soft shimmer, bright major chord finish, clean ending, no crowd, no voice",
+      "durationSeconds": 2,
+      "promptInfluence": 0.7,
+      "made": {
+        "model": "synth.ts",
+        "format": "mp3_44100_128",
+        "candidate": 1,
+        "of": 1,
+        "naturalMs": 1586.2,
+        "gainDb": -20.35,
+        "on": "2026-08-20",
+        "variant": "A",
+        "recipe": "Variant A, soft marimba: C5 E5 G5 C6 rising in 80 ms steps, then a C major chord topped with E6, rolled in 20 ms steps, a small room; fades out by 1600 ms"
+      },
+      "measured": {
+        "lengthMs": 1555.9,
+        "levelDb": -26,
+        "peakDb": -11.67,
+        "onsetMs": 0.59,
+        "clickDb": -39.64,
+        "lufs": -25.4,
+        "truePeakDb": -11.7
+      },
+      "approved": {
+        "by": "the admin",
+        "on": "2026-08-19"
+      }
+    }
+  ],
+  "alternates": []
+}

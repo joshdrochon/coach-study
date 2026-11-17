@@ -1,0 +1,17 @@
+{
+  "category": "Gear",
+  "reviews": [
+    {
+      "itemId": "station-parts",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    },
+    {
+      "itemId": "band-colors",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    }
+  ]
+}

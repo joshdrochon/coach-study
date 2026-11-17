@@ -1,0 +1,260 @@
+.questionBox {
+  position: relative;
+  width: 100%;
+  max-width: 60rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.question {
+  width: 100%;
+  text-align: center;
+}
+
+.replay {
+  display: flex;
+}
+
+.measure {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.choices {
+  width: 100%;
+  max-width: 55rem;
+  text-align: left;
+}
+
+.headlineGroup {
+  width: 100%;
+  max-width: 55rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-16);
+}
+
+.typeForm {
+  width: 100%;
+  max-width: 55rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-48);
+  text-align: left;
+}
+
+.stack40 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-40);
+}
+
+.stack8 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-12);
+}
+
+.linkRow {
+  display: flex;
+  justify-content: center;
+}
+
+.timer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.drawn {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: var(--bracket-gap);
+  width: fit-content;
+  max-width: 100%;
+  margin-inline: auto;
+}
+
+.bracketLeft,
+.bracketRight {
+  flex: none;
+  box-sizing: border-box;
+  width: var(--bracket-width);
+  margin-top: var(--bracket-top);
+  margin-bottom: var(--bracket-bottom);
+  border: var(--bracket-stroke) solid currentcolor;
+}
+
+.bracketLeft {
+  border-right: 0;
+}
+
+.bracketRight {
+  border-left: 0;
+}
+
+.drawnText {
+  min-width: 0;
+}
+
+.bracket {
+  display: block;
+  white-space: nowrap;
+}
+
+.fitBox {
+  position: relative;
+  container-type: inline-size;
+}
+
+@container (max-width: 32rem) {
+  [data-text-style='headline-xl'] .bracket {
+    white-space: normal;
+  }
+}
+
+.probeLine {
+  width: max-content;
+  max-width: none;
+  white-space: nowrap;
+}
+
+.keepWhole {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.bannerRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-24);
+}
+
+.verdict {
+  display: flex;
+  align-items: center;
+  gap: var(--space-20);
+  min-width: 0;
+}
+
+.verdictText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.disc {
+  width: var(--size-control);
+  height: var(--size-control);
+  flex: none;
+  border-radius: 50%;
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.answerGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: var(--space-24);
+}
+
+.answerText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-24);
+  min-width: 0;
+}
+
+.rows {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-16);
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.why {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.readAs {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: var(--color-text-muted);
+  text-decoration-thickness: var(--border-control);
+  text-underline-offset: var(--space-4);
+}
+
+.photo {
+  position: relative;
+  width: 100%;
+  height: 18rem;
+  overflow: hidden;
+  border-radius: var(--radius);
+  background: var(--color-surface-2);
+}
+
+.photoImage {
+  object-fit: cover;
+}
+
+.twoColumns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: var(--space-24);
+}
+
+.quote {
+  overflow-wrap: anywhere;
+}
+
+@media (min-width: 1180px) and (max-width: 1365px) {
+  .answerGrid {
+    grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+  }
+}
+
+@media (max-width: 1179px) {
+  .questionBox,
+  .choices {
+    max-width: 52rem;
+  }
+
+  .answerGrid,
+  .twoColumns {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 743px) {
+  .bannerRow {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

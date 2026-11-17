@@ -1,0 +1,94 @@
+.header {
+  min-height: var(--size-control);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-16);
+}
+
+.profile {
+  min-height: var(--size-control);
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  border-radius: var(--radius);
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+@media (hover: hover) {
+  .profile:hover {
+    color: var(--color-accent-text-strong);
+  }
+}
+
+.avatar {
+  width: var(--size-control);
+  height: var(--size-control);
+  flex: none;
+  display: block;
+  border-radius: 50%;
+  border: var(--border-selected) solid var(--color-accent);
+  object-fit: cover;
+}
+
+.profileText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  text-align: left;
+}
+
+.hero {
+  flex: 1;
+  width: 100%;
+  max-width: 55rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--space-40);
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-16);
+}
+
+.action {
+  align-self: flex-start;
+}
+
+.today {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-24);
+}
+
+.todayText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--space-24);
+  row-gap: var(--space-8);
+}
+
+.waiting {
+  position: relative;
+  flex: 1 1 auto;
+}
+
+.reserve {
+  visibility: hidden;
+}
+
+.shown {
+  position: absolute;
+  inset: 0;
+}

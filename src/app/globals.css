@@ -1,0 +1,77 @@
+@import '../styles/tokens.css';
+@import '../styles/font-faces.css';
+
+:root {
+  --font-switzer: 'Switzer';
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+  color: inherit;
+  margin: 0;
+}
+
+a {
+  color: var(--color-accent-text);
+}
+
+@media (hover: hover) {
+  a:hover {
+    color: var(--color-accent-text-strong);
+  }
+}
+
+:focus-visible {
+  outline: var(--border-selected) solid var(--color-accent-text);
+  outline-offset: var(--space-4);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0s !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0s !important;
+  }
+}

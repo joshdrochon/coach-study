@@ -1,0 +1,121 @@
+export type SpokenExample = readonly [written: string, spoken: string]
+
+export const SPOKEN_EXAMPLES: Readonly<Record<string, readonly SpokenExample[]>> = {
+  brackets: [
+    ['Wave to [guest], then sit.', 'Wave to guest, then sit.'],
+    ['Face the [north] window.', 'Face the north window.'],
+  ],
+  acronym: [
+    ['Our ETA is noon.', 'Our E-T-A is noon.'],
+    ['The E.T.A. moved.', 'The E-T-A moved.'],
+    ['Keep 120 BPM.', 'Keep 120 B-P-M.'],
+    ['Call HQ first.', 'Call headquarters first.'],
+    ['Back to H.Q. now.', 'Back to headquarters now.'],
+    ['Dim both PC monitors.', 'Dim both P-C monitors.'],
+    ['The PC monitor flickers.', 'The P-C monitor flickers.'],
+    ['Meet in the TV room.', 'Meet in the T-V room.'],
+  ],
+  emphasis: [
+    ['NO talking here', 'no talking here'],
+    ['Breathe THEN move.', 'Breathe then move.'],
+  ],
+  latin: [
+    ['Bring a snack (e.g. fruit).', 'Bring a snack (for example fruit).'],
+    ['I.e. walk, jog, run.', 'That is walk, jog, run.'],
+    ['Pack socks (or hats, etc.), to stay warm.', 'Pack socks (or hats, et cetera), to stay warm.'],
+    ['pack socks (or hats etc.)', 'pack socks (or hats et cetera)'],
+    ['Water: appx. 2.5 pounds', 'Water: approximately 2.5 pounds'],
+    ['the office (aka HQ)', 'the office (also known as headquarters)'],
+  ],
+  clock: [['Lunch at 6:30 pm.', 'Lunch at 6:30 pm.']],
+  'time-range': [
+    ['Simmer (4:00-6:00).', 'Simmer (4 to 6 minutes).'],
+    ['Rinse (:10-:40)', 'Rinse (10 to 40 seconds)'],
+    ['Stir (:15-0:45)', 'Stir (15 to 45 seconds)'],
+    ['Knead 3:00–5:00 min', 'Knead 3 to 5 minutes'],
+    ['from 1:40 - 2:00', 'from 1 minute 40 seconds to 2 minutes'],
+  ],
+  duration: [
+    ['Walk the dog for 3:00.', 'Walk the dog for 3 minutes.'],
+    ['Boil 1:40,', 'Boil 1 minute 40 seconds,'],
+    ['Steep 0:45.', 'Steep 45 seconds.'],
+    ['Rinse 0:30 sec', 'Rinse 30 seconds'],
+    ['Stir 2:00 min', 'Stir 2 minutes'],
+    ['Pause :30 between.', 'Pause 30 seconds between.'],
+    ['Clip 1:37', 'Clip 1 minute 37 seconds'],
+  ],
+  page: [
+    ['Guide p. 433', 'Guide page 433'],
+    ['Guide p.425 and pp. 440-441', 'Guide page 425 and pages 440 to 441'],
+  ],
+  'number-range': [
+    ['Usually 8-10 apples.', 'Usually 8 to 10 apples.'],
+    ['15-35 people, 2 tables.', '15 to 35 people, 2 tables.'],
+    ['0-30: 2 cups', '0 to 30: 2 cups'],
+    ['80–90% of the day', '80 to 90 percent of the day'],
+  ],
+  compare: [
+    ['<15 people: 2 cups', 'under 15 people: 2 cups'],
+    ['>35 people', 'over 35 people'],
+    ['≤15 minutes, ≥ 2 cups', 'at most 15 minutes, at least 2 cups'],
+  ],
+  plus: [
+    ['35+ people: no cups', '35 plus people: no cups'],
+    ['salt + pepper', 'salt and pepper'],
+    ['hands + feet', 'hands and feet'],
+    ['Ages 50+.', 'Ages 50 plus.'],
+    ['2+2', '2 and 2'],
+  ],
+  percent: [['Almost 50%.', 'Almost 50 percent.']],
+  degrees: [
+    ['turn the dial to 90°.', 'turn the dial to 90 degrees.'],
+    ['45° Angle', '45 degree Angle'],
+  ],
+  ampersand: [
+    ['salt & pepper', 'salt and pepper'],
+    ['Rise & Shine', 'Rise and Shine'],
+  ],
+  equals: [
+    ['2 halves = 1 whole', '2 halves equals 1 whole'],
+    ['More sleep = more energy.', 'More sleep equals more energy.'],
+  ],
+  'number-sign': [['Track #1', 'Track number 1']],
+  times: [
+    ['Clap x2.', 'Clap 2 times.'],
+    ['Nod 2x, then smile.', 'Nod 2 times, then smile.'],
+    ['3 × 10', '3 times 10'],
+  ],
+  unit: [
+    ['In 10 sec, smile!', 'In 10 seconds, smile!'],
+    ['Each crate weighs 17 lbs.', 'Each crate weighs 17 pounds.'],
+    ['12lbs or 33lbs crates', '12 pounds or 33 pounds crates'],
+    ['about 15.5 lbs. (a crate', 'about 15.5 pounds (a crate'],
+    ['1 sec or 1 lb', '1 second or 1 pound'],
+    ['Nap 5 min', 'Nap 5 minutes'],
+    ['4 or 6 sec. 2. Say hello.', '4 or 6 seconds. 2, Say hello.'],
+    ['like "In 10 sec..."', 'like "In 10 seconds..."'],
+  ],
+  pounds: [
+    ['Weigh each one in lbs.', 'Weigh each one in pounds.'],
+    ['How heavy in lbs, roughly?', 'How heavy in pounds, roughly?'],
+  ],
+  side: [
+    ['Hop on the L.', 'Hop on the left.'],
+    ['R hand over the top of L,', 'right hand over the top of left,'],
+    ['Look [L/R].', 'Look left or right.'],
+  ],
+  slash: [
+    ['Jump up/down, then rest.', 'Jump up down, then rest.'],
+    ['say it and/or tap it', 'say it and or tap it'],
+    ['Tea/coffee first.', 'Tea or coffee first.'],
+    ['ask your friend/neighbor', 'ask your friend or neighbor'],
+    ['the walk/jog', 'the walk or jog'],
+    ['bus/train/bike', 'bus, train or bike'],
+  ],
+  countdown: [['Ready in 3,2,1, go!', 'Ready in 3, 2, 1, go!']],
+  list: [
+    ['1. Open the door. 2. Wave hello.', '1, Open the door. 2, Wave hello.'],
+    ['Example: “2. Read SLOWLY aloud.”', 'Example: “2, Read slowly aloud.”'],
+  ],
+  glued: [['Room12: the blue door', 'Room 12: the blue door']],
+}

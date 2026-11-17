@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "term": "tempo",
+      "means": "how many counts each part of a move takes",
+      "page": 20,
+      "passageIds": ["m020-term-tempo"],
+      "quote": "Tempo means how many counts each part of a move takes."
+    },
+    {
+      "term": "range",
+      "means": "how far the body travels in one move",
+      "page": 21,
+      "passageIds": ["m021-term-range"],
+      "quote": "Range means how far the body travels in one move."
+    },
+    {
+      "term": "easier",
+      "means": "shorten the range and keep one knee down",
+      "page": 14,
+      "passageIds": ["m014-sample-move-a-easier"],
+      "quote": "To make Sample Move A easier, shorten the range and keep one knee down."
+    }
+  ]
+}

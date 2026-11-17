@@ -1,0 +1,23 @@
+{
+  "category": "Coaching voice",
+  "reviews": [
+    {
+      "itemId": "voice-order",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    },
+    {
+      "itemId": "voice-short",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    },
+    {
+      "itemId": "voice-close",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    }
+  ]
+}

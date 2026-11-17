@@ -1,0 +1,23 @@
+{
+  "category": "Floor work",
+  "reviews": [
+    {
+      "itemId": "sample-move-a-setup",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    },
+    {
+      "itemId": "sample-move-a-pace",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    },
+    {
+      "itemId": "sample-move-a-easier",
+      "verdict": "accepted",
+      "reason": "Sample card, checked against the sample guide.",
+      "round": 1
+    }
+  ]
+}

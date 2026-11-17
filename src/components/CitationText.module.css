@@ -1,0 +1,19 @@
+.line {
+  display: block;
+}
+
+.line + .line {
+  margin-top: var(--space-4);
+}
+
+.line + .label {
+  margin-top: var(--space-20);
+}
+
+.label + .line {
+  margin-top: var(--space-8);
+}
+
+.indent {
+  padding-inline-start: var(--space-24);
+}
